@@ -1,0 +1,2137 @@
+[
+  {
+    "_id": {
+      "$oid": "68dd56368d5c1dd8f9cf5c61"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/do-choi-trung-thu-c772",
+    "name": "Đồ Chơi Trung Thu"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56368d5c1dd8f9cf5c60"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-trung-thu-c771",
+    "name": "Bánh Trung Thu"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56528d5c1dd8f9cf5c66"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/rau-cu-khac-c732",
+    "name": "Rau Củ Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56528d5c1dd8f9cf5c65"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/rau-gia-vi-c302",
+    "name": "Rau Gia Vị"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56528d5c1dd8f9cf5c64"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/rau-cu-c512",
+    "name": "Rau Củ"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56528d5c1dd8f9cf5c63"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/rau-la-c301",
+    "name": "Rau Lá"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56878d5c1dd8f9cf5c68"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nam-kho-c628",
+    "name": "Nấm Khô"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56878d5c1dd8f9cf5c67"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nam-tuoi-c627",
+    "name": "Nấm Tươi"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56a18d5c1dd8f9cf5c6c"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/loai-thit-khac-c284",
+    "name": "Loại Thịt Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56b38d5c1dd8f9cf5c72"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thit-heo-khac-c283",
+    "name": "Thịt Heo Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56b38d5c1dd8f9cf5c71"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/chan-gio-c282",
+    "name": "Chân Giò"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56b38d5c1dd8f9cf5c70"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/xuong-c280",
+    "name": "Xương"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56b38d5c1dd8f9cf5c6f"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thit-xay-dui-vai-nac-c279",
+    "name": "Thịt Xay, Đùi, Vai, Nạc"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56b38d5c1dd8f9cf5c6e"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thit-suon-c278",
+    "name": "Thịt Sườn"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56b38d5c1dd8f9cf5c6d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ba-chi-c277",
+    "name": "Ba Chỉ"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56ff8d5c1dd8f9cf5c77"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thit-ga-khac-c620",
+    "name": "Thịt Gà Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56ff8d5c1dd8f9cf5c76"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/xuong-c619",
+    "name": "Xương"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56ff8d5c1dd8f9cf5c75"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dui-ma-dui-c618",
+    "name": "Đùi, Má Đùi"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56ff8d5c1dd8f9cf5c74"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/canh-chan-c617",
+    "name": "Cánh, Chân"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56ff8d5c1dd8f9cf5c73"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/phi-le-uc-c616",
+    "name": "Phi Lê, Ức"
+  },
+  {
+    "_id": {
+      "$oid": "68dd573c8d5c1dd8f9cf5c7e"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thit-bo-khac-c274",
+    "name": "Thịt Bò Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd573c8d5c1dd8f9cf5c7d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/suon-bo-c273",
+    "name": "Sườn Bò"
+  },
+  {
+    "_id": {
+      "$oid": "68dd573c8d5c1dd8f9cf5c7c"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bap-bo-c272",
+    "name": "Bắp Bò"
+  },
+  {
+    "_id": {
+      "$oid": "68dd573c8d5c1dd8f9cf5c7b"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nam-bo-thit-bo-xay-c271",
+    "name": "Nạm Bò, Thịt Bò Xay"
+  },
+  {
+    "_id": {
+      "$oid": "68dd573c8d5c1dd8f9cf5c7a"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thit-than-phi-le-c270",
+    "name": "Thịt Thăn, Phi Lê"
+  },
+  {
+    "_id": {
+      "$oid": "68dd573c8d5c1dd8f9cf5c79"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bit-tet-c269",
+    "name": "Bít Tết"
+  },
+  {
+    "_id": {
+      "$oid": "68dd573c8d5c1dd8f9cf5c78"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ba-chi-c268",
+    "name": "Ba Chỉ"
+  },
+  {
+    "_id": {
+      "$oid": "68dd57918d5c1dd8f9cf5c81"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thuy-san-kho-c511",
+    "name": "Thủy Sản Khô"
+  },
+  {
+    "_id": {
+      "$oid": "68dd57918d5c1dd8f9cf5c80"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thuy-san-dong-lanh-c626",
+    "name": "Thủy Sản Đông Lạnh"
+  },
+  {
+    "_id": {
+      "$oid": "68dd57ad8d5c1dd8f9cf5c86"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thuy-san-tuoi-khac-c625",
+    "name": "Thủy Sản Tươi Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd57ad8d5c1dd8f9cf5c85"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tom-cua-oc-c624",
+    "name": "Tôm, Cua, Ốc"
+  },
+  {
+    "_id": {
+      "$oid": "68dd57ad8d5c1dd8f9cf5c84"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/muc-bach-tuoc-c623",
+    "name": "Mực, Bạch Tuộc"
+  },
+  {
+    "_id": {
+      "$oid": "68dd57ad8d5c1dd8f9cf5c83"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ca-bien-c622",
+    "name": "Cá Biển"
+  },
+  {
+    "_id": {
+      "$oid": "68dd57ad8d5c1dd8f9cf5c82"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ca-song-c621",
+    "name": "Cá Sông"
+  },
+  {
+    "_id": {
+      "$oid": "68dd57e58d5c1dd8f9cf5c89"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/trung-khac-c288",
+    "name": "Trứng Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd57e58d5c1dd8f9cf5c88"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/trung-vit-c287",
+    "name": "Trứng Vịt"
+  },
+  {
+    "_id": {
+      "$oid": "68dd57e58d5c1dd8f9cf5c87"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/trung-ga-c286",
+    "name": "Trứng Gà"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58098d5c1dd8f9cf5c90"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/trai-cay-khac-c308",
+    "name": "Trái Cây Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58098d5c1dd8f9cf5c8f"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nho-cherry-dau-kiwi-c311",
+    "name": "Nho, Cherry, Dâu, Kiwi"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58098d5c1dd8f9cf5c8e"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/xoai-c307",
+    "name": "Xoài"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58098d5c1dd8f9cf5c8d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/chuoi-c306",
+    "name": "Chuối"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58098d5c1dd8f9cf5c8c"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/cam-buoi-quyt-c305",
+    "name": "Cam, Bưởi, Quýt"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58098d5c1dd8f9cf5c8b"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dua-hau-dua-luoi-c304",
+    "name": "Dưa Hấu, Dưa Lưới"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58098d5c1dd8f9cf5c8a"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tao-le-c310",
+    "name": "Táo, Lê"
+  },
+  {
+    "_id": {
+      "$oid": "68dd585e8d5c1dd8f9cf5c95"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/kim-chi-c729",
+    "name": "Kim Chi"
+  },
+  {
+    "_id": {
+      "$oid": "68dd585e8d5c1dd8f9cf5c94"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/rau-dong-lanh-c728",
+    "name": "Rau, Trái Cây Đông Lạnh"
+  },
+  {
+    "_id": {
+      "$oid": "68dd587d8d5c1dd8f9cf5c97"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thuc-pham-che-bien-khac-c583",
+    "name": "Thực Phẩm Chế Biến Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd588f8d5c1dd8f9cf5c99"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/lau-c582",
+    "name": "Lẩu"
+  },
+  {
+    "_id": {
+      "$oid": "68dd588f8d5c1dd8f9cf5c98"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/pizza-mi-com-dong-lanh-c581",
+    "name": "Pizza, Mì, Cơm Đông Lạnh"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58b68d5c1dd8f9cf5c9e"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thit-nguoi-c579",
+    "name": "Thịt Nguội"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58b68d5c1dd8f9cf5c9d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/lap-xuong-c578",
+    "name": "Lạp Xưởng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58b68d5c1dd8f9cf5c9c"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/xuc-xich-c577",
+    "name": "Xúc Xích"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58dd8d5c1dd8f9cf5ca0"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ca-vien-bo-vien-c576",
+    "name": "Cá Viên, Bò Viên"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58dd8d5c1dd8f9cf5c9f"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/cha-gio-cha-re-c575",
+    "name": "Chả Giò, Chả Rế"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58f98d5c1dd8f9cf5ca3"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dau-hu-c171",
+    "name": "Đậu Hủ"
+  },
+  {
+    "_id": {
+      "$oid": "68dd58f98d5c1dd8f9cf5ca2"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/cha-lua-nem-c170",
+    "name": "Chả Lụa, Nem"
+  },
+  {
+    "_id": {
+      "$oid": "68dd59178d5c1dd8f9cf5ca5"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ha-cao-dim-sum-c574",
+    "name": "Há Cảo, Dim Sum"
+  },
+  {
+    "_id": {
+      "$oid": "68dd59178d5c1dd8f9cf5ca4"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-bao-banh-gio-c573",
+    "name": "Bánh Bao, Bánh Giò"
+  },
+  {
+    "_id": {
+      "$oid": "68dd56228d5c1dd8f9cf5c4c"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thuc-pham-so-che-c506",
+    "name": "Thực Phẩm Sơ Chế"
+  },
+  {
+    "_id": {
+      "$oid": "68dd59458d5c1dd8f9cf5ca7"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dau-an-c201",
+    "name": "Dầu Ăn"
+  },
+  {
+    "_id": {
+      "$oid": "68dd59608d5c1dd8f9cf5cb0"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/gia-vi-hoan-chinh-c607",
+    "name": "Gia Vị Hoàn Chỉnh"
+  },
+  {
+    "_id": {
+      "$oid": "68dd59608d5c1dd8f9cf5caf"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bot-gia-vi-c606",
+    "name": "Bột Gia Vị"
+  },
+  {
+    "_id": {
+      "$oid": "68dd59608d5c1dd8f9cf5cae"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tieu-sa-te-c605",
+    "name": "Tiêu, Sa Tế"
+  },
+  {
+    "_id": {
+      "$oid": "68dd59608d5c1dd8f9cf5cad"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dau-hao-tuong-hot-giam-c604",
+    "name": "Dầu Hào, Tương Hột, Giấm"
+  },
+  {
+    "_id": {
+      "$oid": "68dd599c8d5c1dd8f9cf5cb4"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mayonnaise-c603",
+    "name": "Mayonnaise"
+  },
+  {
+    "_id": {
+      "$oid": "68dd599c8d5c1dd8f9cf5cb3"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tuong-den-c602",
+    "name": "Tương Đen"
+  },
+  {
+    "_id": {
+      "$oid": "68dd599c8d5c1dd8f9cf5cb2"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tuong-ca-c601",
+    "name": "Tương Cà"
+  },
+  {
+    "_id": {
+      "$oid": "68dd599c8d5c1dd8f9cf5cb1"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tuong-ot-c600",
+    "name": "Tương Ớt"
+  },
+  {
+    "_id": {
+      "$oid": "68dd59ca8d5c1dd8f9cf5cb6"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/duong-c599",
+    "name": "Đường"
+  },
+  {
+    "_id": {
+      "$oid": "68dd59ca8d5c1dd8f9cf5cb5"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/muoi-c598",
+    "name": "Muối"
+  },
+  {
+    "_id": {
+      "$oid": "68dd59e58d5c1dd8f9cf5cb8"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bot-ngot-c597",
+    "name": "Bột Ngọt"
+  },
+  {
+    "_id": {
+      "$oid": "68dd59e58d5c1dd8f9cf5cb7"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/hat-nem-bot-canh-c596",
+    "name": "Hạt Nêm, Bột Canh"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5a018d5c1dd8f9cf5cba"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-tuong-c595",
+    "name": "Nước Tương"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5a018d5c1dd8f9cf5cb9"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-mam-c594",
+    "name": "Nước Mắm"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5a2b8d5c1dd8f9cf5cc0"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-trang-banh-phong-c593",
+    "name": "Bánh Tráng, Bánh Phồng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5a2b8d5c1dd8f9cf5cbf"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/rong-bien-c592",
+    "name": "Rong Biển"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5a4a8d5c1dd8f9cf5cc3"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mien-bun-kho-c590",
+    "name": "Miến, Bún Khô"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5a4a8d5c1dd8f9cf5cc2"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mi-y-c588",
+    "name": "Mì Ý"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5a4a8d5c1dd8f9cf5cc1"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nui-c587",
+    "name": "Nui"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5a6f8d5c1dd8f9cf5cc7"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/topokki-c591",
+    "name": "Topokki"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5a6f8d5c1dd8f9cf5cc6"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/chao-com-an-lien-c193",
+    "name": "Cơm, Cháo, Canh Ăn Liền"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5a6f8d5c1dd8f9cf5cc5"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/pho-bun-an-lien-c192",
+    "name": "Phở, Bún Ăn Liền"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5a6f8d5c1dd8f9cf5cc4"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mi-an-lien-c191",
+    "name": "Mì Ăn Liền"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5aa48d5c1dd8f9cf5cca"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bot-cac-loai-c586",
+    "name": "Bột Các Loại"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5aa48d5c1dd8f9cf5cc9"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dau-cac-loai-c585",
+    "name": "Đậu Các Loại"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5aa48d5c1dd8f9cf5cc8"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/gao-c584",
+    "name": "Gạo"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5adc8d5c1dd8f9cf5cd0"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/rau-cu-dua-muoi-c572",
+    "name": "Rau Củ Muối, Chao"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5adc8d5c1dd8f9cf5ccf"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mam-cac-loai-c571",
+    "name": "Mắm Các Loại"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5af98d5c1dd8f9cf5cd3"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mut-kho-o-mai-c569",
+    "name": "Mứt Khô, Ô Mai"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5af98d5c1dd8f9cf5cd2"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thuy-san-kho-c568",
+    "name": "Thủy Sản Khô"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5af98d5c1dd8f9cf5cd1"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thit-kho-c567",
+    "name": "Thịt Khô"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5b288d5c1dd8f9cf5cd7"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/rau-cu-dong-hop-c565",
+    "name": "Rau Củ Đóng Hộp"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5b288d5c1dd8f9cf5cd6"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/trai-cay-dong-hop-c165",
+    "name": "Trái Cây Đóng Hộp"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5b288d5c1dd8f9cf5cd5"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thuy-san-hop-c164",
+    "name": "Thủy Sản Hộp"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5b288d5c1dd8f9cf5cd4"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thit-hop-c163",
+    "name": "Thịt Hộp"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5b618d5c1dd8f9cf5cdd"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sua-dac-c559",
+    "name": "Sữa Đặc"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5b748d5c1dd8f9cf5ce1"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sua-cong-thuc-c564",
+    "name": "Sữa Công Thức"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5b748d5c1dd8f9cf5ce0"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sua-khong-duong-c563",
+    "name": "Sữa Không Đường"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5b748d5c1dd8f9cf5cdf"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sua-co-duong-c562",
+    "name": "Sữa Có Đường"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5b748d5c1dd8f9cf5cde"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sua-hat-sua-dau-c561",
+    "name": "Sữa Hạt, Sữa Đậu"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ba48d5c1dd8f9cf5ce4"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/vang-sua-c558",
+    "name": "Váng Sữa"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ba48d5c1dd8f9cf5ce3"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sua-chua-uong-c557",
+    "name": "Sữa Chua Uống"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ba48d5c1dd8f9cf5ce2"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sua-chua-an-c556",
+    "name": "Sữa Chua Ăn"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5bd08d5c1dd8f9cf5cea"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bot-an-dam-c731",
+    "name": "Bột Ăn Dặm"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5bd08d5c1dd8f9cf5ce9"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sua-nguoi-lon-c555",
+    "name": "Sữa Người Lớn"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5bd08d5c1dd8f9cf5ce8"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sua-bau-c554",
+    "name": "Sữa Bầu"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5bd08d5c1dd8f9cf5ce7"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/36-thang-tro-len-c553",
+    "name": "36 Tháng Trở Lên"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5bd08d5c1dd8f9cf5ce6"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/12-36-thang-c552",
+    "name": "12 - 36 Tháng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5bd08d5c1dd8f9cf5ce5"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/0-12-thang-c551",
+    "name": "0-12 Tháng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5c228d5c1dd8f9cf5ced"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/flan-pudding-thach-c550",
+    "name": "Flan, Pudding, Thạch"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5c358d5c1dd8f9cf5cf0"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/kem-tuoi-whipping-cream-c547",
+    "name": "Kem Tươi, Whipping Cream"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5c358d5c1dd8f9cf5cef"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/pho-mai-c546",
+    "name": "Phô Mai"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5c358d5c1dd8f9cf5cee"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bo-c545",
+    "name": "Bơ"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5c5b8d5c1dd8f9cf5cf4"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mon-an-nhanh-khac-c244",
+    "name": "Món Ăn Nhanh Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5c5b8d5c1dd8f9cf5cf3"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mon-trang-mieng-c243",
+    "name": "Món Tráng Miệng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5c5b8d5c1dd8f9cf5cf2"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mon-an-nhanh-c234",
+    "name": "Món Ăn Nhanh"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5c5b8d5c1dd8f9cf5cf1"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bun-tuoi-banh-pho-c232",
+    "name": "Bún Tươi, Bánh Phở"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5c8e8d5c1dd8f9cf5cfa"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-keo-khac-c116",
+    "name": "Bánh Kẹo Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5c8e8d5c1dd8f9cf5cf9"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/keo-c119",
+    "name": "Kẹo"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5c8e8d5c1dd8f9cf5cf8"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/chocolate-c115",
+    "name": "Socola"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5cb38d5c1dd8f9cf5cfc"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-que-banh-gau-c523",
+    "name": "Bánh Que, Bánh Gấu"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5cb38d5c1dd8f9cf5cfb"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-snacks-c522",
+    "name": "Bánh Snack"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5cce8d5c1dd8f9cf5d00"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-an-dam-c730",
+    "name": "Bánh Ăn Dặm"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5cce8d5c1dd8f9cf5cff"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-bong-lan-c521",
+    "name": "Bánh Bông Lan"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5cce8d5c1dd8f9cf5cfe"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-xop-c114",
+    "name": "Bánh Xốp"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5cce8d5c1dd8f9cf5cfd"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-quy-c113",
+    "name": "Bánh Quy"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5cfd8d5c1dd8f9cf5d03"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bo-phet-dau-phong-c529",
+    "name": "Bơ Phết, Đậu Phộng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5cfd8d5c1dd8f9cf5d02"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-an-sang-c524",
+    "name": "Bánh, Ngũ Cốc"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5d1a8d5c1dd8f9cf5d05"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/trai-cay-say-c527",
+    "name": "Trái Cây Sấy"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5d1a8d5c1dd8f9cf5d04"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/hat-say-kho-c526",
+    "name": "Hạt Sấy Khô"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5d408d5c1dd8f9cf5d0a"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bot-socola-ca-cao-c722",
+    "name": "Bột Socola, Ca Cao"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5d528d5c1dd8f9cf5d0c"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tra-tui-loc-c726",
+    "name": "Trà Túi Lọc"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5d528d5c1dd8f9cf5d0b"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tra-say-kho-c725",
+    "name": "Trà Sấy Khô"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5d6f8d5c1dd8f9cf5d0e"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ca-phe-hat-phin-c724",
+    "name": "Cà Phê Hạt, Phin"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5d6f8d5c1dd8f9cf5d0d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ca-phe-hoa-tan-c723",
+    "name": "Cà Phê Hòa Tan"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5d8b8d5c1dd8f9cf5d10"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ca-phe-dong-chai-c721",
+    "name": "Cà Phê Đóng Chai"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5d8b8d5c1dd8f9cf5d0f"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tra-dong-chai-c720",
+    "name": "Trà Đóng Chai"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5da88d5c1dd8f9cf5d14"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/pizza-c230",
+    "name": "Pizza"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5da88d5c1dd8f9cf5d13"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-lat-c229",
+    "name": "Bánh Lạt"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5da88d5c1dd8f9cf5d12"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-man-ngot-c228",
+    "name": "Pastry, Pie"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5da88d5c1dd8f9cf5d11"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/banh-kem-banh-lanh-c227",
+    "name": "Bánh Kem, Bánh Lạnh"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5dd68d5c1dd8f9cf5d19"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/do-uong-khac-c137",
+    "name": "Đồ Uống Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5dd68d5c1dd8f9cf5d18"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-suoi-c136",
+    "name": "Nước Suối"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5dd68d5c1dd8f9cf5d17"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bia-c123",
+    "name": "Bia"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5dfa8d5c1dd8f9cf5d1d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-dinh-duong-c536",
+    "name": "Nước Dinh Dưỡng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5dfa8d5c1dd8f9cf5d1c"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-trai-cay-c535",
+    "name": "Nước Trái Cây"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5dfa8d5c1dd8f9cf5d1b"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tang-luc-bu-khoang-c135",
+    "name": "Tăng Lực, Bù Khoáng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5dfa8d5c1dd8f9cf5d1a"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-co-ga-c134",
+    "name": "Nước Có Ga"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e388d5c1dd8f9cf5d24"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ruou-khac-c534",
+    "name": "Rượu Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e388d5c1dd8f9cf5d23"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/soju-c533",
+    "name": "Soju"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e388d5c1dd8f9cf5d22"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ruou-manh-c532",
+    "name": "Rượu Mạnh"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e388d5c1dd8f9cf5d21"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sam-panh-vang-sui-c531",
+    "name": "Sâm Panh & Vang Sủi"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e388d5c1dd8f9cf5d20"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/vang-trang-vang-hong-c530",
+    "name": "Vang Trắng, Vang Hồng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e388d5c1dd8f9cf5d1f"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/vang-do-c127",
+    "name": "Vang Đỏ"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e388d5c1dd8f9cf5d1e"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/cider-c126",
+    "name": "Cider"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e848d5c1dd8f9cf5d2a"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thuc-pham-chuc-nang-c264",
+    "name": "Thực Phẩm Chức Năng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e848d5c1dd8f9cf5d29"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thuc-pham-giam-can-c262",
+    "name": "Thực Phẩm Giảm Cân"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e848d5c1dd8f9cf5d28"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bot-nghe-vien-nghe-c509",
+    "name": "Bột Nghệ, Viên Nghệ"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e848d5c1dd8f9cf5d27"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mat-ong-c508",
+    "name": "Mật Ong"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e848d5c1dd8f9cf5d26"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-yen-c507",
+    "name": "Nước Yến"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5e848d5c1dd8f9cf5d25"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/hong-sam-nhan-sam-c263",
+    "name": "Hồng Sâm, Nhân Sâm"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ec48d5c1dd8f9cf5d2d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/other-health-beauty-c769",
+    "name": "Chăm Sóc Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ed78d5c1dd8f9cf5d30"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/cham-soc-mong-c655",
+    "name": "Chăm Sóc Móng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ed78d5c1dd8f9cf5d2f"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/trang-diem-mat-c651",
+    "name": "Trang Điểm Mặt"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ef58d5c1dd8f9cf5d32"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bong-tay-trang-khan-tay-trang-c654",
+    "name": "Bông Tẩy Trang, Khăn Tẩy Trang"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ef58d5c1dd8f9cf5d31"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-tay-trang-c653",
+    "name": "Nước Tẩy Trang"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5f128d5c1dd8f9cf5d36"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/kem-va-sua-duong-da-c663",
+    "name": "Dưỡng Da"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5f128d5c1dd8f9cf5d35"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/kem-chong-nang-c662",
+    "name": "Chống Nắng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5f128d5c1dd8f9cf5d34"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mat-na-c656",
+    "name": "Mặt Nạ"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5f3f8d5c1dd8f9cf5d3a"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dung-cu-ve-sinh-khac-c661",
+    "name": "Sản Phẩm Làm Sạch Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5f3f8d5c1dd8f9cf5d39"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tay-te-bao-chet-c660",
+    "name": "Tẩy Tế Bào Chết"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5f3f8d5c1dd8f9cf5d38"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sua-rua-mat-c659",
+    "name": "Sữa Rửa Mặt"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5f3f8d5c1dd8f9cf5d37"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-hoa-hong-toner-xit-khoang-c658",
+    "name": "Nước Hoa Hồng, Toner, Xịt Khoáng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5f7b8d5c1dd8f9cf5d3f"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/do-choi-be-gai-c680",
+    "name": "Đồ Chơi Bé Gái"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5f7b8d5c1dd8f9cf5d3e"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/do-choi-be-trai-c679",
+    "name": "Đồ Chơi Bé Trai"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5f7b8d5c1dd8f9cf5d3d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thu-bong-c678",
+    "name": "Thú Bông"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5fa28d5c1dd8f9cf5d43"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mieng-lot-ta-tre-em-c677",
+    "name": "Miếng Lót, Tã Trẻ Em"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5fa28d5c1dd8f9cf5d42"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dung-cu-an-uong-c676",
+    "name": "Dụng Cụ Ăn Uống"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5fa28d5c1dd8f9cf5d41"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/cham-soc-suc-khoe-c675",
+    "name": "Chăm Sóc Sức Khỏe"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5fc78d5c1dd8f9cf5d45"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/baby-bath-body-care-c754",
+    "name": "Cơ Thể"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5fc78d5c1dd8f9cf5d44"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/baby-oral-care-c753",
+    "name": "Răng Miệng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ff78d5c1dd8f9cf5d50"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/san-pham-ve-sinh-rang-khac-c706",
+    "name": "Sản Phẩm Vệ Sinh Răng Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ff78d5c1dd8f9cf5d4f"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-suc-mieng-xit-thom-mieng-c705",
+    "name": "Nước Súc Miệng, Xịt Thơm Miệng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ff78d5c1dd8f9cf5d4e"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ban-chai-danh-rang-c704",
+    "name": "Bàn Chải Đánh Răng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd5ff78d5c1dd8f9cf5d4d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/kem-danh-rang-c703",
+    "name": "Kem Đánh Răng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60278d5c1dd8f9cf5d55"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/u-toc-c699",
+    "name": "Ủ Tóc"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60278d5c1dd8f9cf5d54"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tao-kieu-duong-toc-c698",
+    "name": "Tạo Kiểu, Dưỡng Tóc"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60278d5c1dd8f9cf5d53"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nhuom-toc-c697",
+    "name": "Nhuộm Tóc"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60278d5c1dd8f9cf5d52"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dau-xa-c696",
+    "name": "Dầu Xả"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60278d5c1dd8f9cf5d51"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dau-goi-c695",
+    "name": "Dầu Gội"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60618d5c1dd8f9cf5d58"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dao-cao-tay-long-c693",
+    "name": "Dao Cạo, Tẩy Lông"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60618d5c1dd8f9cf5d57"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dung-dich-ve-sinh-c692",
+    "name": "Dung Dịch Vệ Sinh"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60618d5c1dd8f9cf5d56"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bang-ve-sinh-tampon-ta-nguoi-lon-c691",
+    "name": "Băng Vệ Sinh, Tampon, Tã Người Lớn"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60a78d5c1dd8f9cf5d5b"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tay-te-bao-chet-c689",
+    "name": "Tẩy Tế Bào Chết"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60a78d5c1dd8f9cf5d5a"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sua-tam-c688",
+    "name": "Sữa Tắm"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60a78d5c1dd8f9cf5d59"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/xa-bong-cuc-c687",
+    "name": "Xà Bông Cục"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60ce8d5c1dd8f9cf5d5f"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khau-trang-bang-ca-nhan-bong-y-te-c685",
+    "name": "Khẩu Trang, Băng Cá Nhân, Bông Y Tế"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60ce8d5c1dd8f9cf5d5e"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-rua-tay-duong-da-tay-rua-tay-kho-c684",
+    "name": "Nước Rửa Tay, Dưỡng Da Tay, Rửa Tay Khô"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60ce8d5c1dd8f9cf5d5d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/lotion-duong-am-c683",
+    "name": "Lotion, Dưỡng Ẩm"
+  },
+  {
+    "_id": {
+      "$oid": "68dd60ce8d5c1dd8f9cf5d5c"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khu-mui-c682",
+    "name": "Khử Mùi"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61048d5c1dd8f9cf5d62"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/suc-khoe-tinh-duc-c713",
+    "name": "Sức Khỏe Tình Dục"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61188d5c1dd8f9cf5d64"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tao-kieu-c712",
+    "name": "Tạo Kiểu"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61188d5c1dd8f9cf5d63"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dau-goi-dau-xa-c711",
+    "name": "Dầu Gội, Dầu Xả"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61378d5c1dd8f9cf5d67"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dao-cao-bot-cao-c709",
+    "name": "Dạo Cạo, Bọt Cạo"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61378d5c1dd8f9cf5d66"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tam-goi-c708",
+    "name": "Tắm, Gội"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61378d5c1dd8f9cf5d65"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khu-mui-c707",
+    "name": "Khử Mùi"
+  },
+  {
+    "_id": {
+      "$oid": "68dd617f8d5c1dd8f9cf5d6e"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/giay-ve-sinh-c636",
+    "name": "Giấy Vệ Sinh"
+  },
+  {
+    "_id": {
+      "$oid": "68dd617f8d5c1dd8f9cf5d6d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khan-uot-c635",
+    "name": "Khăn Ướt"
+  },
+  {
+    "_id": {
+      "$oid": "68dd617f8d5c1dd8f9cf5d6c"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khan-giay-c634",
+    "name": "Khăn Giấy"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61ae8d5c1dd8f9cf5d73"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khac-c646",
+    "name": "Vệ Sinh, Tẩy Rửa Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61ae8d5c1dd8f9cf5d72"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tay-rua-nha-tam-c645",
+    "name": "Tẩy Rửa Nhà Tắm"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61ae8d5c1dd8f9cf5d71"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/xit-kinh-lau-bep-c644",
+    "name": "Xịt Kính, Lau Bếp"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61ae8d5c1dd8f9cf5d70"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-lau-san-c643",
+    "name": "Nước Lau Sàn"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61ae8d5c1dd8f9cf5d6f"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-rua-chen-c642",
+    "name": "Nước Rửa Chén"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61f48d5c1dd8f9cf5d76"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sap-thom-xit-phong-c640",
+    "name": "Sáp Thơm, Xịt Phòng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61f48d5c1dd8f9cf5d75"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/diet-con-trung-c639",
+    "name": "Diệt Côn Trùng"
+  },
+  {
+    "_id": {
+      "$oid": "68dd61f48d5c1dd8f9cf5d74"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khu-mui-c638",
+    "name": "Khử Mùi"
+  },
+  {
+    "_id": {
+      "$oid": "68ddce617855a20e2f5ddba8"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/giay-ve-sinh-c636",
+    "name": "Giấy Vệ Sinh"
+  },
+  {
+    "_id": {
+      "$oid": "68ddce617855a20e2f5ddba7"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khan-uot-c635",
+    "name": "Khăn Ướt"
+  },
+  {
+    "_id": {
+      "$oid": "68ddce617855a20e2f5ddba6"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khan-giay-c634",
+    "name": "Khăn Giấy"
+  },
+  {
+    "_id": {
+      "$oid": "68ddce917855a20e2f5ddbad"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khac-c646",
+    "name": "Vệ Sinh, Tẩy Rửa Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68ddce917855a20e2f5ddbac"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tay-rua-nha-tam-c645",
+    "name": "Tẩy Rửa Nhà Tắm"
+  },
+  {
+    "_id": {
+      "$oid": "68ddce917855a20e2f5ddbab"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/xit-kinh-lau-bep-c644",
+    "name": "Xịt Kính, Lau Bếp"
+  },
+  {
+    "_id": {
+      "$oid": "68ddce917855a20e2f5ddbaa"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-lau-san-c643",
+    "name": "Nước Lau Sàn"
+  },
+  {
+    "_id": {
+      "$oid": "68ddce917855a20e2f5ddba9"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-rua-chen-c642",
+    "name": "Nước Rửa Chén"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcec87855a20e2f5ddbb0"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sap-thom-xit-phong-c640",
+    "name": "Sáp Thơm, Xịt Phòng"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcec87855a20e2f5ddbaf"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/diet-con-trung-c639",
+    "name": "Diệt Côn Trùng"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcec87855a20e2f5ddbae"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khu-mui-c638",
+    "name": "Khử Mùi"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcefe7855a20e2f5ddbb4"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-tay-ve-sinh-long-giat-c633",
+    "name": "Nước Tẩy, Vệ Sinh Lồng Giặt"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcefe7855a20e2f5ddbb3"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/xa-vai-xit-vai-c632",
+    "name": "Xả Vải, Xịt Vải"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcf197855a20e2f5ddbb7"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/vien-giat-c631",
+    "name": "Viên Giặt"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcf197855a20e2f5ddbb6"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nuoc-giat-c630",
+    "name": "Nước Giặt"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcf197855a20e2f5ddbb5"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bot-giat-c629",
+    "name": "Bột Giặt"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcf457855a20e2f5ddbba"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thiet-bi-gia-dinh-c422",
+    "name": "Thiết Bị Gia Đình"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcf577855a20e2f5ddbbd"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thiet-bi-bep-khac-c426",
+    "name": "Thiết Bị Bếp Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcf577855a20e2f5ddbbc"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/noi-com-dien-c425",
+    "name": "Nồi Cơm Điện"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcf577855a20e2f5ddbbb"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bep-dien-c424",
+    "name": "Bếp Điện"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcf837855a20e2f5ddbc1"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/pin-c650",
+    "name": "Pin"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcf837855a20e2f5ddbc0"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/o-cam-phich-cam-dien-c649",
+    "name": "Ổ Cắm, Phích Cắm Điện"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcf837855a20e2f5ddbbf"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/den-thiet-bi-chieu-sang-c648",
+    "name": "Đèn, Thiết Bị Chiếu Sáng"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcfbb7855a20e2f5ddbcf"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/vo-san-pham-ve-giay-c670",
+    "name": "Vở, Sản Phẩm Về Giấy"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcfbb7855a20e2f5ddbce"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/sach-c669",
+    "name": "Sách"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcfbb7855a20e2f5ddbcd"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mau-nuoc-mau-sap-c668",
+    "name": "Màu Nước, Màu Sáp"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcfbb7855a20e2f5ddbcc"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/but-viet-tay-thuoc-c667",
+    "name": "Bút, Viết, Tẩy, Thước"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcfeb7855a20e2f5ddbd2"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/san-pham-da-mat-khac-c673",
+    "name": "Dụng Cụ Văn Phòng Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcfeb7855a20e2f5ddbd1"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bam-kim-phu-kien-c672",
+    "name": "Bấm Kim & Phụ Kiện"
+  },
+  {
+    "_id": {
+      "$oid": "68ddcfeb7855a20e2f5ddbd0"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bia-ho-so-c671",
+    "name": "Bìa Hồ Sơ"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0117855a20e2f5ddbd6"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dung-cu-trang-tri-nha-khac-c412",
+    "name": "Trang Trí Nhà Cửa Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0117855a20e2f5ddbd5"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/cay-hoa-tuoi-c411",
+    "name": "Cây, Hoa Tươi"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0117855a20e2f5ddbd4"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/lo-hoa-gia-c410",
+    "name": "Lọ, Hoa Giả"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0117855a20e2f5ddbd3"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tham-c408",
+    "name": "Thảm"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd03e7855a20e2f5ddbd8"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dung-cu-bo-dung-cu-sua-chua-c404",
+    "name": "Dụng Cụ, Bộ Dụng Cụ Sửa Chữa"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd03e7855a20e2f5ddbd7"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thiet-bi-do-luong-c401",
+    "name": "Thiết Bị Đo Lường"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0587855a20e2f5ddbdd"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/do-noi-that-khac-c399",
+    "name": "Đồ Nội Thất Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0587855a20e2f5ddbdc"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ban-hoc-lam-viec-c398",
+    "name": "Bàn Học, Làm Việc"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0587855a20e2f5ddbdb"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/guong-c397",
+    "name": "Gương"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0587855a20e2f5ddbda"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tu-ke-giay-c396",
+    "name": "Tủ, Kệ Giày"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0587855a20e2f5ddbd9"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tu-ke-treo-quan-ao-c395",
+    "name": "Tủ, Kệ Treo Quần Áo"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd08f7855a20e2f5ddbe1"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/xit-rua-va-phu-kien-c391",
+    "name": "Xịt Rửa Và Phụ Kiện"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd08f7855a20e2f5ddbe0"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dat-duong-cay-hoa-c390",
+    "name": "Đất, Dưỡng Cây, Hoa"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd08f7855a20e2f5ddbdf"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/hat-giong-c389",
+    "name": "Hạt Giống"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd08f7855a20e2f5ddbde"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dung-cu-lam-vuon-c388",
+    "name": "Dụng Cụ Làm Vườn"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0c37855a20e2f5ddbe5"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nem-tam-lot-nem-c385",
+    "name": "Nệm, Tấm Lót Nệm"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0c37855a20e2f5ddbe4"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/goi-ruot-goi-vo-goi-c384",
+    "name": "Gối, Ruột Gối, Vỏ Gối"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0c37855a20e2f5ddbe3"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/chan-men-c383",
+    "name": "Chăn, Mền"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0c37855a20e2f5ddbe2"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/bo-ga-ra-drap-c382",
+    "name": "Bộ Ga, Ra, Drap"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0ff7855a20e2f5ddbe8"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dung-cu-phong-tam-khac-c666",
+    "name": "Đồ Dùng Phòng Tắm Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0ff7855a20e2f5ddbe7"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/moc-treo-thung-dung-do-c665",
+    "name": "Móc Treo, Thùng Đựng Đồ"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd0ff7855a20e2f5ddbe6"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/khan-tam-bong-tam-c664",
+    "name": "Khăn Tắm, Bông Tắm"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1237855a20e2f5ddbf0"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dung-cu-bep-khac-c379",
+    "name": "Dụng Cụ Bếp Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1237855a20e2f5ddbef"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/tui-rac-sot-rac-c378",
+    "name": "Túi Rác, Sọt Rác"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1237855a20e2f5ddbee"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dung-cu-lam-banh-c377",
+    "name": "Dụng Cụ Làm Bánh"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1237855a20e2f5ddbed"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/hop-thuc-pham-c376",
+    "name": "Hộp Thực Phẩm"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1237855a20e2f5ddbec"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dao-thot-keo-lam-bep-c375",
+    "name": "Dao, Thớt, Kéo Làm Bếp"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1237855a20e2f5ddbeb"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/binh-nuoc-ly-nuoc-c374",
+    "name": "Bình Nước, Ly Nước"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1237855a20e2f5ddbea"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/to-chen-dia-muong-dua-c373",
+    "name": "Tô, Chén, Đĩa, Muỗng, Đũa"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1237855a20e2f5ddbe9"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/noi-chao-c372",
+    "name": "Nồi, Chảo"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1757855a20e2f5ddbf5"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/san-pham-thu-cung-khac-c438",
+    "name": "Sản Phẩm Thú Cưng Khác"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1757855a20e2f5ddbf4"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/vitamin-dinh-duong-c437",
+    "name": "Vitamin, Dinh Dưỡng"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1757855a20e2f5ddbf3"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ve-sinh-tam-goi-c435",
+    "name": "Vệ Sinh, Tắm Gội"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1757855a20e2f5ddbf2"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/nha-ve-sinh-cat-ve-sinh-c434",
+    "name": "Nhà Vệ Sinh, Cát Vệ Sinh"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1a17855a20e2f5ddbf7"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thuc-an-cho-meo-c715",
+    "name": "Thức Ăn Cho Mèo"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1a17855a20e2f5ddbf6"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/thuc-an-cho-cho-c714",
+    "name": "Thức Ăn Cho Chó"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1cc7855a20e2f5ddbfe"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/mu-non-c466",
+    "name": "Mũ, Nón"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1cc7855a20e2f5ddbfd"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/balo-cap-c465",
+    "name": "Balo, Cặp"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1cc7855a20e2f5ddbfc"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/giay-dep-c464",
+    "name": "Giày, Dép"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd1cc7855a20e2f5ddbfb"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ao-quan-c461",
+    "name": "Áo"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd2037855a20e2f5ddc07"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/quan-ao-nam-khac-c614",
+    "name": "Phụ Kiện Nam"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd2037855a20e2f5ddc06"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/quan-nam-c613",
+    "name": "Quần Nam"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd2037855a20e2f5ddc05"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/vo-c459",
+    "name": "Vớ"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd2037855a20e2f5ddc04"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/hats-c458",
+    "name": "Mũ, Nón"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd2037855a20e2f5ddc03"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/vali-tui-xach-balo-c457",
+    "name": "Vali, Túi Xách, Balo"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd2037855a20e2f5ddc02"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/shoes-c456",
+    "name": "Giày, Dép"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd2037855a20e2f5ddc01"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/do-lot-c455",
+    "name": "Đồ Lót"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd2037855a20e2f5ddc00"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/trang-phuc-the-thao-c453",
+    "name": "Trang Phục Thể Thao"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd2037855a20e2f5ddbff"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/ao-thun-so-mi-c452",
+    "name": "Áo Thun, Sơ Mi"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd25b7855a20e2f5ddc0e"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/quan-ao-nu-khac-c612",
+    "name": "Phụ Kiện Nữ"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd25b7855a20e2f5ddc0d"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/vo-c450",
+    "name": "Vớ"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd25b7855a20e2f5ddc0c"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/hats-c449",
+    "name": "Mũ, Nón"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd25b7855a20e2f5ddc0b"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/giay-dep-c447",
+    "name": "Giày, Dép"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd25b7855a20e2f5ddc0a"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/do-lot-c446",
+    "name": "Đồ Lót"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd25b7855a20e2f5ddc09"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/do-ngu-mac-nha-c445",
+    "name": "Đồ Ngủ, Mặc Nhà"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd25b7855a20e2f5ddc08"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/vay-dam-quan-c443",
+    "name": "Váy, Đầm, Quần"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd2a57855a20e2f5ddc10"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/dung-cu-thiet-bi-tap-c470",
+    "name": "Dụng Cụ, Thiết Bị Tập"
+  },
+  {
+    "_id": {
+      "$oid": "68ddd2a57855a20e2f5ddc0f"
+    },
+    "href": "https://www.lottemart.vn/vi-nsg/category/phu-kien-ngay-mua-c468",
+    "name": "Phụ Kiện Ngày Mưa"
+  }
+]
