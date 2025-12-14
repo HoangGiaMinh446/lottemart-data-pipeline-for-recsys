@@ -1,0 +1,420 @@
+_id,name,slug,parent_category
+68dd56228d5c1dd8f9cf5c45,Trung Thu,trung-thu,
+68dd56228d5c1dd8f9cf5c46,Rau Củ,rau-cu,
+68dd56228d5c1dd8f9cf5c47,Thịt,thit,
+68dd56228d5c1dd8f9cf5c48,Thủy sản,thuy-san,
+68dd56228d5c1dd8f9cf5c49,Trứng,trung,
+68dd56228d5c1dd8f9cf5c4a,Trái Cây,trai-cay,
+68dd56228d5c1dd8f9cf5c4b,Thực Phẩm Đông Lạnh,thuc-pham-dong-lanh,
+68dd56228d5c1dd8f9cf5c4c,Thực Phẩm Sơ Chế,thuc-pham-so-che,
+68dd56228d5c1dd8f9cf5c4d,"Dầu Ăn, Gia Vị",dau-an-gia-vi,
+68dd56228d5c1dd8f9cf5c4e,"Gạo, Mì, Bún, Đậu",gao-mi-bun-dau,
+68dd56228d5c1dd8f9cf5c4f,Thực Phẩm Khô,thuc-pham-kho,
+68dd56228d5c1dd8f9cf5c50,Chế Phẩm Từ Sữa,che-pham-tu-sua,
+68dd56228d5c1dd8f9cf5c51,Món Ăn Nhanh,mon-an-nhanh,
+68dd56228d5c1dd8f9cf5c52,Bánh Kẹo,banh-keo,
+68dd56228d5c1dd8f9cf5c53,"Trà, Cà Phê",tra-ca-phe,
+68dd56228d5c1dd8f9cf5c54,Bánh Tươi,banh-tuoi,
+68dd56228d5c1dd8f9cf5c55,Đồ Uống,do-uong,
+68dd56228d5c1dd8f9cf5c56,Thực Phẩm Bổ Sung,thuc-pham-bo-sung,
+68dd56228d5c1dd8f9cf5c57,"Sức Khỏe, Làm Đẹp",suc-khoe-lam-dep,
+68dd56228d5c1dd8f9cf5c58,Mẹ Và Bé,me-va-be,
+68dd56228d5c1dd8f9cf5c59,Chăm Sóc Cá Nhân,cham-soc-ca-nhan,
+68dd56228d5c1dd8f9cf5c5a,"Hóa Phẩm, Vệ Sinh",hoa-pham-ve-sinh,
+68dd56228d5c1dd8f9cf5c5b,Điện Gia Dụng,dien-gia-dung,
+68dd56228d5c1dd8f9cf5c5c,Nhà Cửa Đời Sống,nha-cua-doi-song,
+68dd56228d5c1dd8f9cf5c5d,Thú Cưng,thu-cung,
+68dd56228d5c1dd8f9cf5c5e,Thời Trang,thoi-trang,
+68dd56228d5c1dd8f9cf5c5f,Thể Thao,the-thao,
+68dd56368d5c1dd8f9cf5c60,https://www.lottemart.vn/vi-nsg/category/banh-trung-thu-c771,banh-trung-thu,Bánh Trung Thu,68dd56228d5c1dd8f9cf5c45,2025-10-01T16:26:30.197Z,2025-10-01T16:26:30.197Z
+68dd56368d5c1dd8f9cf5c61,https://www.lottemart.vn/vi-nsg/category/do-choi-trung-thu-c772,do-choi-trung-thu,Đồ Chơi Trung Thu,68dd56228d5c1dd8f9cf5c45,2025-10-01T16:26:30.197Z,2025-10-01T16:26:30.197Z
+68dd56528d5c1dd8f9cf5c62,https://www.lottemart.vn/vi-nsg/category/nam-c297,nam,Nấm,68dd56228d5c1dd8f9cf5c46,2025-10-01T16:26:58.838Z,2025-10-01T16:26:58.838Z
+68dd56528d5c1dd8f9cf5c63,https://www.lottemart.vn/vi-nsg/category/rau-la-c301,rau-la,Rau Lá,68dd56228d5c1dd8f9cf5c46,2025-10-01T16:26:58.838Z,2025-10-01T16:26:58.838Z
+68dd56528d5c1dd8f9cf5c64,https://www.lottemart.vn/vi-nsg/category/rau-cu-c512,rau-cu,Rau Củ,68dd56228d5c1dd8f9cf5c46,2025-10-01T16:26:58.838Z,2025-10-01T16:26:58.838Z
+68dd56528d5c1dd8f9cf5c65,https://www.lottemart.vn/vi-nsg/category/rau-gia-vi-c302,rau-gia-vi,Rau Gia Vị,68dd56228d5c1dd8f9cf5c46,2025-10-01T16:26:58.838Z,2025-10-01T16:26:58.838Z
+68dd56528d5c1dd8f9cf5c66,https://www.lottemart.vn/vi-nsg/category/rau-cu-khac-c732,rau-cu-khac,Rau Củ Khác,68dd56228d5c1dd8f9cf5c46,2025-10-01T16:26:58.838Z,2025-10-01T16:26:58.838Z
+68dd56878d5c1dd8f9cf5c67,https://www.lottemart.vn/vi-nsg/category/nam-tuoi-c627,nam-tuoi,Nấm Tươi,68dd56528d5c1dd8f9cf5c62,2025-10-01T16:27:51.076Z,2025-10-01T16:27:51.076Z
+68dd56878d5c1dd8f9cf5c68,https://www.lottemart.vn/vi-nsg/category/nam-kho-c628,nam-kho,Nấm Khô,68dd56528d5c1dd8f9cf5c62,2025-10-01T16:27:51.076Z,2025-10-01T16:27:51.076Z
+68dd56a18d5c1dd8f9cf5c69,https://www.lottemart.vn/vi-nsg/category/thit-bo-c267,thit-bo,Thịt Bò,68dd56228d5c1dd8f9cf5c47,2025-10-01T16:28:17.585Z,2025-10-01T16:28:17.585Z
+68dd56a18d5c1dd8f9cf5c6a,https://www.lottemart.vn/vi-nsg/category/thit-ga-c275,thit-ga,Thịt Gà,68dd56228d5c1dd8f9cf5c47,2025-10-01T16:28:17.585Z,2025-10-01T16:28:17.585Z
+68dd56a18d5c1dd8f9cf5c6b,https://www.lottemart.vn/vi-nsg/category/thit-heo-c276,thit-heo,Thịt Heo,68dd56228d5c1dd8f9cf5c47,2025-10-01T16:28:17.585Z,2025-10-01T16:28:17.585Z
+68dd56a18d5c1dd8f9cf5c6c,https://www.lottemart.vn/vi-nsg/category/loai-thit-khac-c284,loai-thit-khac,Loại Thịt Khác,68dd56228d5c1dd8f9cf5c47,2025-10-01T16:28:17.585Z,2025-10-01T16:28:17.585Z
+68dd56b38d5c1dd8f9cf5c6d,https://www.lottemart.vn/vi-nsg/category/ba-chi-c277,ba-chi,Ba Chỉ,68dd56a18d5c1dd8f9cf5c6b,2025-10-01T16:28:35.663Z,2025-10-01T16:28:35.663Z
+68dd56b38d5c1dd8f9cf5c6e,https://www.lottemart.vn/vi-nsg/category/thit-suon-c278,thit-suon,Thịt Sườn,68dd56a18d5c1dd8f9cf5c6b,2025-10-01T16:28:35.663Z,2025-10-01T16:28:35.663Z
+68dd56b38d5c1dd8f9cf5c6f,https://www.lottemart.vn/vi-nsg/category/thit-xay-dui-vai-nac-c279,thit-xay-dui-vai-nac,"Thịt Xay, Đùi, Vai, Nạc",68dd56a18d5c1dd8f9cf5c6b,2025-10-01T16:28:35.663Z,2025-10-01T16:28:35.663Z
+68dd56b38d5c1dd8f9cf5c70,https://www.lottemart.vn/vi-nsg/category/xuong-c280,xuong,Xương,68dd56a18d5c1dd8f9cf5c6b,2025-10-01T16:28:35.663Z,2025-10-01T16:28:35.663Z
+68dd56b38d5c1dd8f9cf5c71,https://www.lottemart.vn/vi-nsg/category/chan-gio-c282,chan-gio,Chân Giò,68dd56a18d5c1dd8f9cf5c6b,2025-10-01T16:28:35.663Z,2025-10-01T16:28:35.663Z
+68dd56b38d5c1dd8f9cf5c72,https://www.lottemart.vn/vi-nsg/category/thit-heo-khac-c283,thit-heo-khac,Thịt Heo Khác,68dd56a18d5c1dd8f9cf5c6b,2025-10-01T16:28:35.663Z,2025-10-01T16:28:35.663Z
+68dd56ff8d5c1dd8f9cf5c73,https://www.lottemart.vn/vi-nsg/category/phi-le-uc-c616,phi-le-uc,"Phi Lê, Ức",68dd56a18d5c1dd8f9cf5c6a,2025-10-01T16:29:51.700Z,2025-10-01T16:29:51.700Z
+68dd56ff8d5c1dd8f9cf5c74,https://www.lottemart.vn/vi-nsg/category/canh-chan-c617,canh-chan,"Cánh, Chân",68dd56a18d5c1dd8f9cf5c6a,2025-10-01T16:29:51.701Z,2025-10-01T16:29:51.701Z
+68dd56ff8d5c1dd8f9cf5c75,https://www.lottemart.vn/vi-nsg/category/dui-ma-dui-c618,dui-ma-dui,"Đùi, Má Đùi",68dd56a18d5c1dd8f9cf5c6a,2025-10-01T16:29:51.701Z,2025-10-01T16:29:51.701Z
+68dd56ff8d5c1dd8f9cf5c76,https://www.lottemart.vn/vi-nsg/category/xuong-c619,xuong,Xương,68dd56a18d5c1dd8f9cf5c6a,2025-10-01T16:29:51.701Z,2025-10-01T16:29:51.701Z
+68dd56ff8d5c1dd8f9cf5c77,https://www.lottemart.vn/vi-nsg/category/thit-ga-khac-c620,thit-ga-khac,Thịt Gà Khác,68dd56a18d5c1dd8f9cf5c6a,2025-10-01T16:29:51.701Z,2025-10-01T16:29:51.701Z
+68dd573c8d5c1dd8f9cf5c78,https://www.lottemart.vn/vi-nsg/category/ba-chi-c268,ba-chi,Ba Chỉ,68dd56a18d5c1dd8f9cf5c69,2025-10-01T16:30:52.128Z,2025-10-01T16:30:52.128Z
+68dd573c8d5c1dd8f9cf5c79,https://www.lottemart.vn/vi-nsg/category/bit-tet-c269,bit-tet,Bít Tết,68dd56a18d5c1dd8f9cf5c69,2025-10-01T16:30:52.128Z,2025-10-01T16:30:52.128Z
+68dd573c8d5c1dd8f9cf5c7a,https://www.lottemart.vn/vi-nsg/category/thit-than-phi-le-c270,thit-than-phi-le,"Thịt Thăn, Phi Lê",68dd56a18d5c1dd8f9cf5c69,2025-10-01T16:30:52.128Z,2025-10-01T16:30:52.128Z
+68dd573c8d5c1dd8f9cf5c7b,https://www.lottemart.vn/vi-nsg/category/nam-bo-thit-bo-xay-c271,nam-bo-thit-bo-xay,"Nạm Bò, Thịt Bò Xay",68dd56a18d5c1dd8f9cf5c69,2025-10-01T16:30:52.128Z,2025-10-01T16:30:52.128Z
+68dd573c8d5c1dd8f9cf5c7c,https://www.lottemart.vn/vi-nsg/category/bap-bo-c272,bap-bo,Bắp Bò,68dd56a18d5c1dd8f9cf5c69,2025-10-01T16:30:52.128Z,2025-10-01T16:30:52.128Z
+68dd573c8d5c1dd8f9cf5c7d,https://www.lottemart.vn/vi-nsg/category/suon-bo-c273,suon-bo,Sườn Bò,68dd56a18d5c1dd8f9cf5c69,2025-10-01T16:30:52.128Z,2025-10-01T16:30:52.128Z
+68dd573c8d5c1dd8f9cf5c7e,https://www.lottemart.vn/vi-nsg/category/thit-bo-khac-c274,thit-bo-khac,Thịt Bò Khác,68dd56a18d5c1dd8f9cf5c69,2025-10-01T16:30:52.128Z,2025-10-01T16:30:52.128Z
+68dd57918d5c1dd8f9cf5c7f,https://www.lottemart.vn/vi-nsg/category/thuy-san-tuoi-song-c510,thuy-san-tuoi-song,Thủy Sản Tươi Sống,68dd56228d5c1dd8f9cf5c48,2025-10-01T16:32:17.205Z,2025-10-01T16:32:17.205Z
+68dd57918d5c1dd8f9cf5c80,https://www.lottemart.vn/vi-nsg/category/thuy-san-dong-lanh-c626,thuy-san-dong-lanh,Thủy Sản Đông Lạnh,68dd56228d5c1dd8f9cf5c48,2025-10-01T16:32:17.205Z,2025-10-01T16:32:17.205Z
+68dd57918d5c1dd8f9cf5c81,https://www.lottemart.vn/vi-nsg/category/thuy-san-kho-c511,thuy-san-kho,Thủy Sản Khô,68dd56228d5c1dd8f9cf5c48,2025-10-01T16:32:17.205Z,2025-10-01T16:32:17.205Z
+68dd57ad8d5c1dd8f9cf5c82,https://www.lottemart.vn/vi-nsg/category/ca-song-c621,ca-song,Cá Sông,68dd57918d5c1dd8f9cf5c7f,2025-10-01T16:32:45.477Z,2025-10-01T16:32:45.477Z
+68dd57ad8d5c1dd8f9cf5c83,https://www.lottemart.vn/vi-nsg/category/ca-bien-c622,ca-bien,Cá Biển,68dd57918d5c1dd8f9cf5c7f,2025-10-01T16:32:45.477Z,2025-10-01T16:32:45.477Z
+68dd57ad8d5c1dd8f9cf5c84,https://www.lottemart.vn/vi-nsg/category/muc-bach-tuoc-c623,muc-bach-tuoc,"Mực, Bạch Tuộc",68dd57918d5c1dd8f9cf5c7f,2025-10-01T16:32:45.477Z,2025-10-01T16:32:45.477Z
+68dd57ad8d5c1dd8f9cf5c85,https://www.lottemart.vn/vi-nsg/category/tom-cua-oc-c624,tom-cua-oc,"Tôm, Cua, Ốc",68dd57918d5c1dd8f9cf5c7f,2025-10-01T16:32:45.477Z,2025-10-01T16:32:45.477Z
+68dd57ad8d5c1dd8f9cf5c86,https://www.lottemart.vn/vi-nsg/category/thuy-san-tuoi-khac-c625,thuy-san-tuoi-khac,Thủy Sản Tươi Khác,68dd57918d5c1dd8f9cf5c7f,2025-10-01T16:32:45.477Z,2025-10-01T16:32:45.477Z
+68dd57e58d5c1dd8f9cf5c87,https://www.lottemart.vn/vi-nsg/category/trung-ga-c286,trung-ga,Trứng Gà,68dd56228d5c1dd8f9cf5c49,2025-10-01T16:33:41.620Z,2025-10-01T16:33:41.620Z
+68dd57e58d5c1dd8f9cf5c88,https://www.lottemart.vn/vi-nsg/category/trung-vit-c287,trung-vit,Trứng Vịt,68dd56228d5c1dd8f9cf5c49,2025-10-01T16:33:41.620Z,2025-10-01T16:33:41.620Z
+68dd57e58d5c1dd8f9cf5c89,https://www.lottemart.vn/vi-nsg/category/trung-khac-c288,trung-khac,Trứng Khác,68dd56228d5c1dd8f9cf5c49,2025-10-01T16:33:41.620Z,2025-10-01T16:33:41.620Z
+68dd58098d5c1dd8f9cf5c8a,https://www.lottemart.vn/vi-nsg/category/tao-le-c310,tao-le,"Táo, Lê",68dd56228d5c1dd8f9cf5c4a,2025-10-01T16:34:17.226Z,2025-10-01T16:34:17.226Z
+68dd58098d5c1dd8f9cf5c8b,https://www.lottemart.vn/vi-nsg/category/dua-hau-dua-luoi-c304,dua-hau-dua-luoi,"Dưa Hấu, Dưa Lưới",68dd56228d5c1dd8f9cf5c4a,2025-10-01T16:34:17.226Z,2025-10-01T16:34:17.226Z
+68dd58098d5c1dd8f9cf5c8c,https://www.lottemart.vn/vi-nsg/category/cam-buoi-quyt-c305,cam-buoi-quyt,"Cam, Bưởi, Quýt",68dd56228d5c1dd8f9cf5c4a,2025-10-01T16:34:17.226Z,2025-10-01T16:34:17.226Z
+68dd58098d5c1dd8f9cf5c8d,https://www.lottemart.vn/vi-nsg/category/chuoi-c306,chuoi,Chuối,68dd56228d5c1dd8f9cf5c4a,2025-10-01T16:34:17.226Z,2025-10-01T16:34:17.226Z
+68dd58098d5c1dd8f9cf5c8e,https://www.lottemart.vn/vi-nsg/category/xoai-c307,xoai,Xoài,68dd56228d5c1dd8f9cf5c4a,2025-10-01T16:34:17.226Z,2025-10-01T16:34:17.226Z
+68dd58098d5c1dd8f9cf5c8f,https://www.lottemart.vn/vi-nsg/category/nho-cherry-dau-kiwi-c311,nho-cherry-dau-kiwi,"Nho, Cherry, Dâu, Kiwi",68dd56228d5c1dd8f9cf5c4a,2025-10-01T16:34:17.226Z,2025-10-01T16:34:17.226Z
+68dd58098d5c1dd8f9cf5c90,https://www.lottemart.vn/vi-nsg/category/trai-cay-khac-c308,trai-cay-khac,Trái Cây Khác,68dd56228d5c1dd8f9cf5c4a,2025-10-01T16:34:17.227Z,2025-10-01T16:34:17.227Z
+68dd585e8d5c1dd8f9cf5c91,https://www.lottemart.vn/vi-nsg/category/banh-bao-gio-cha-dau-hu-c168,banh-bao-gio-cha-dau-hu,"Bánh Bao, Giò Chả, Đậu Hủ",68dd56228d5c1dd8f9cf5c4b,2025-10-01T16:35:42.084Z,2025-10-01T16:35:42.084Z
+68dd585e8d5c1dd8f9cf5c92,https://www.lottemart.vn/vi-nsg/category/ca-vien-xuc-xich-c172,ca-vien-xuc-xich,"Cá Viên, Xúc Xích",68dd56228d5c1dd8f9cf5c4b,2025-10-01T16:35:42.084Z,2025-10-01T16:35:42.084Z
+68dd585e8d5c1dd8f9cf5c93,https://www.lottemart.vn/vi-nsg/category/pizza-com-lau-c178,pizza-com-lau,"Pizza, Cơm, Lẩu",68dd56228d5c1dd8f9cf5c4b,2025-10-01T16:35:42.084Z,2025-10-01T16:35:42.084Z
+68dd585e8d5c1dd8f9cf5c94,https://www.lottemart.vn/vi-nsg/category/rau-dong-lanh-c728,rau-dong-lanh,"Rau, Trái Cây Đông Lạnh",68dd56228d5c1dd8f9cf5c4b,2025-10-01T16:35:42.084Z,2025-10-01T16:35:42.084Z
+68dd585e8d5c1dd8f9cf5c95,https://www.lottemart.vn/vi-nsg/category/kim-chi-c729,kim-chi,Kim Chi,68dd56228d5c1dd8f9cf5c4b,2025-10-01T16:35:42.084Z,2025-10-01T16:35:42.084Z
+68dd587d8d5c1dd8f9cf5c96,https://www.lottemart.vn/vi-nsg/category/pizza-lau-dong-lanh-c580,pizza-lau-dong-lanh,"Pizza, Lẩu Đông Lạnh",68dd585e8d5c1dd8f9cf5c93,2025-10-01T16:36:13.402Z,2025-10-01T16:36:13.402Z
+68dd587d8d5c1dd8f9cf5c97,https://www.lottemart.vn/vi-nsg/category/thuc-pham-che-bien-khac-c583,thuc-pham-che-bien-khac,Thực Phẩm Chế Biến Khác,68dd585e8d5c1dd8f9cf5c93,2025-10-01T16:36:13.402Z,2025-10-01T16:36:13.402Z
+68dd588f8d5c1dd8f9cf5c98,https://www.lottemart.vn/vi-nsg/category/pizza-mi-com-dong-lanh-c581,pizza-mi-com-dong-lanh,"Pizza, Mì, Cơm Đông Lạnh",68dd587d8d5c1dd8f9cf5c96,2025-10-01T16:36:31.832Z,2025-10-01T16:36:31.832Z
+68dd588f8d5c1dd8f9cf5c99,https://www.lottemart.vn/vi-nsg/category/lau-c582,lau,Lẩu,68dd587d8d5c1dd8f9cf5c96,2025-10-01T16:36:31.833Z,2025-10-01T16:36:31.833Z
+68dd58ab8d5c1dd8f9cf5c9a,https://www.lottemart.vn/vi-nsg/category/cha-gio-ca-vien-c173,cha-gio-ca-vien,"Chả Giò, Cá Viên",68dd585e8d5c1dd8f9cf5c92,2025-10-01T16:36:59.879Z,2025-10-01T16:36:59.879Z
+68dd58ab8d5c1dd8f9cf5c9b,https://www.lottemart.vn/vi-nsg/category/xuc-xich-lap-xuong-thit-nguoi-c174,xuc-xich-lap-xuong-thit-nguoi,"Xúc Xích, Lạp Xưởng, Thịt Nguội",68dd585e8d5c1dd8f9cf5c92,2025-10-01T16:36:59.879Z,2025-10-01T16:36:59.879Z
+68dd58b68d5c1dd8f9cf5c9c,https://www.lottemart.vn/vi-nsg/category/xuc-xich-c577,xuc-xich,Xúc Xích,68dd58ab8d5c1dd8f9cf5c9b,2025-10-01T16:37:10.256Z,2025-10-01T16:37:10.256Z
+68dd58b68d5c1dd8f9cf5c9d,https://www.lottemart.vn/vi-nsg/category/lap-xuong-c578,lap-xuong,Lạp Xưởng,68dd58ab8d5c1dd8f9cf5c9b,2025-10-01T16:37:10.256Z,2025-10-01T16:37:10.256Z
+68dd58b68d5c1dd8f9cf5c9e,https://www.lottemart.vn/vi-nsg/category/thit-nguoi-c579,thit-nguoi,Thịt Nguội,68dd58ab8d5c1dd8f9cf5c9b,2025-10-01T16:37:10.256Z,2025-10-01T16:37:10.256Z
+68dd58dd8d5c1dd8f9cf5c9f,https://www.lottemart.vn/vi-nsg/category/cha-gio-cha-re-c575,cha-gio-cha-re,"Chả Giò, Chả Rế",68dd58ab8d5c1dd8f9cf5c9a,2025-10-01T16:37:49.335Z,2025-10-01T16:37:49.335Z
+68dd58dd8d5c1dd8f9cf5ca0,https://www.lottemart.vn/vi-nsg/category/ca-vien-bo-vien-c576,ca-vien-bo-vien,"Cá Viên, Bò Viên",68dd58ab8d5c1dd8f9cf5c9a,2025-10-01T16:37:49.335Z,2025-10-01T16:37:49.335Z
+68dd58f98d5c1dd8f9cf5ca1,https://www.lottemart.vn/vi-nsg/category/banh-bao-banh-gio-ha-cao-c169,banh-bao-banh-gio-ha-cao,"Bánh Bao, Bánh Giò, Há Cảo",68dd585e8d5c1dd8f9cf5c91,2025-10-01T16:38:17.598Z,2025-10-01T16:38:17.598Z
+68dd58f98d5c1dd8f9cf5ca2,https://www.lottemart.vn/vi-nsg/category/cha-lua-nem-c170,cha-lua-nem,"Chả Lụa, Nem",68dd585e8d5c1dd8f9cf5c91,2025-10-01T16:38:17.598Z,2025-10-01T16:38:17.598Z
+68dd58f98d5c1dd8f9cf5ca3,https://www.lottemart.vn/vi-nsg/category/dau-hu-c171,dau-hu,Đậu Hủ,68dd585e8d5c1dd8f9cf5c91,2025-10-01T16:38:17.598Z,2025-10-01T16:38:17.598Z
+68dd59178d5c1dd8f9cf5ca4,https://www.lottemart.vn/vi-nsg/category/banh-bao-banh-gio-c573,banh-bao-banh-gio,"Bánh Bao, Bánh Giò",68dd58f98d5c1dd8f9cf5ca1,2025-10-01T16:38:47.225Z,2025-10-01T16:38:47.225Z
+68dd59178d5c1dd8f9cf5ca5,https://www.lottemart.vn/vi-nsg/category/ha-cao-dim-sum-c574,ha-cao-dim-sum,"Há Cảo, Dim Sum",68dd58f98d5c1dd8f9cf5ca1,2025-10-01T16:38:47.225Z,2025-10-01T16:38:47.225Z
+68dd59458d5c1dd8f9cf5ca6,https://www.lottemart.vn/vi-nsg/category/gia-vi-c215,gia-vi,Gia Vị,68dd56228d5c1dd8f9cf5c4d,2025-10-01T16:39:33.201Z,2025-10-01T16:39:33.201Z
+68dd59458d5c1dd8f9cf5ca7,https://www.lottemart.vn/vi-nsg/category/dau-an-c201,dau-an,Dầu Ăn,68dd56228d5c1dd8f9cf5c4d,2025-10-01T16:39:33.201Z,2025-10-01T16:39:33.201Z
+68dd59578d5c1dd8f9cf5ca8,https://www.lottemart.vn/vi-nsg/category/nuoc-mam-nuoc-tuong-c216,nuoc-mam-nuoc-tuong,"Nước Mắm, Nước Tương",68dd59458d5c1dd8f9cf5ca6,2025-10-01T16:39:51.225Z,2025-10-01T16:39:51.225Z
+68dd59578d5c1dd8f9cf5ca9,https://www.lottemart.vn/vi-nsg/category/hat-nem-bot-ngot-c217,hat-nem-bot-ngot,"Hạt Nêm, Bột Ngọt",68dd59458d5c1dd8f9cf5ca6,2025-10-01T16:39:51.226Z,2025-10-01T16:39:51.226Z
+68dd59578d5c1dd8f9cf5caa,https://www.lottemart.vn/vi-nsg/category/muoi-duong-c218,muoi-duong,"Muối, Đường",68dd59458d5c1dd8f9cf5ca6,2025-10-01T16:39:51.226Z,2025-10-01T16:39:51.226Z
+68dd59578d5c1dd8f9cf5cab,https://www.lottemart.vn/vi-nsg/category/tuong-ot-tuong-ca-tuong-den-c219,tuong-ot-tuong-ca-tuong-den,"Tương Ớt, Tương Cà, Tương Đen",68dd59458d5c1dd8f9cf5ca6,2025-10-01T16:39:51.226Z,2025-10-01T16:39:51.226Z
+68dd59578d5c1dd8f9cf5cac,https://www.lottemart.vn/vi-nsg/category/sot-gia-vi-cac-loai-c220,sot-gia-vi-cac-loai,"Sốt, Gia Vị Các Loại",68dd59458d5c1dd8f9cf5ca6,2025-10-01T16:39:51.226Z,2025-10-01T16:39:51.226Z
+68dd59608d5c1dd8f9cf5cad,https://www.lottemart.vn/vi-nsg/category/dau-hao-tuong-hot-giam-c604,dau-hao-tuong-hot-giam,"Dầu Hào, Tương Hột, Giấm",68dd59578d5c1dd8f9cf5cac,2025-10-01T16:40:00.519Z,2025-10-01T16:40:00.519Z
+68dd59608d5c1dd8f9cf5cae,https://www.lottemart.vn/vi-nsg/category/tieu-sa-te-c605,tieu-sa-te,"Tiêu, Sa Tế",68dd59578d5c1dd8f9cf5cac,2025-10-01T16:40:00.520Z,2025-10-01T16:40:00.520Z
+68dd59608d5c1dd8f9cf5caf,https://www.lottemart.vn/vi-nsg/category/bot-gia-vi-c606,bot-gia-vi,Bột Gia Vị,68dd59578d5c1dd8f9cf5cac,2025-10-01T16:40:00.520Z,2025-10-01T16:40:00.520Z
+68dd59608d5c1dd8f9cf5cb0,https://www.lottemart.vn/vi-nsg/category/gia-vi-hoan-chinh-c607,gia-vi-hoan-chinh,Gia Vị Hoàn Chỉnh,68dd59578d5c1dd8f9cf5cac,2025-10-01T16:40:00.520Z,2025-10-01T16:40:00.520Z
+68dd599c8d5c1dd8f9cf5cb1,https://www.lottemart.vn/vi-nsg/category/tuong-ot-c600,tuong-ot,Tương Ớt,68dd59578d5c1dd8f9cf5cab,2025-10-01T16:41:00.977Z,2025-10-01T16:41:00.977Z
+68dd599c8d5c1dd8f9cf5cb2,https://www.lottemart.vn/vi-nsg/category/tuong-ca-c601,tuong-ca,Tương Cà,68dd59578d5c1dd8f9cf5cab,2025-10-01T16:41:00.977Z,2025-10-01T16:41:00.977Z
+68dd599c8d5c1dd8f9cf5cb3,https://www.lottemart.vn/vi-nsg/category/tuong-den-c602,tuong-den,Tương Đen,68dd59578d5c1dd8f9cf5cab,2025-10-01T16:41:00.977Z,2025-10-01T16:41:00.977Z
+68dd599c8d5c1dd8f9cf5cb4,https://www.lottemart.vn/vi-nsg/category/mayonnaise-c603,mayonnaise,Mayonnaise,68dd59578d5c1dd8f9cf5cab,2025-10-01T16:41:00.977Z,2025-10-01T16:41:00.977Z
+68dd59ca8d5c1dd8f9cf5cb5,https://www.lottemart.vn/vi-nsg/category/muoi-c598,muoi,Muối,68dd59578d5c1dd8f9cf5caa,2025-10-01T16:41:46.878Z,2025-10-01T16:41:46.878Z
+68dd59ca8d5c1dd8f9cf5cb6,https://www.lottemart.vn/vi-nsg/category/duong-c599,duong,Đường,68dd59578d5c1dd8f9cf5caa,2025-10-01T16:41:46.878Z,2025-10-01T16:41:46.878Z
+68dd59e58d5c1dd8f9cf5cb7,https://www.lottemart.vn/vi-nsg/category/hat-nem-bot-canh-c596,hat-nem-bot-canh,"Hạt Nêm, Bột Canh",68dd59578d5c1dd8f9cf5ca9,2025-10-01T16:42:13.967Z,2025-10-01T16:42:13.967Z
+68dd59e58d5c1dd8f9cf5cb8,https://www.lottemart.vn/vi-nsg/category/bot-ngot-c597,bot-ngot,Bột Ngọt,68dd59578d5c1dd8f9cf5ca9,2025-10-01T16:42:13.967Z,2025-10-01T16:42:13.967Z
+68dd5a018d5c1dd8f9cf5cb9,https://www.lottemart.vn/vi-nsg/category/nuoc-mam-c594,nuoc-mam,Nước Mắm,68dd59578d5c1dd8f9cf5ca8,2025-10-01T16:42:41.580Z,2025-10-01T16:42:41.580Z
+68dd5a018d5c1dd8f9cf5cba,https://www.lottemart.vn/vi-nsg/category/nuoc-tuong-c595,nuoc-tuong,Nước Tương,68dd59578d5c1dd8f9cf5ca8,2025-10-01T16:42:41.580Z,2025-10-01T16:42:41.580Z
+68dd5a1c8d5c1dd8f9cf5cbb,https://www.lottemart.vn/vi-nsg/category/gao-bot-dau-c187,gao-bot-dau,"Gạo, Bột, Đậu",68dd56228d5c1dd8f9cf5c4e,2025-10-01T16:43:08.665Z,2025-10-01T16:43:08.665Z
+68dd5a1c8d5c1dd8f9cf5cbc,https://www.lottemart.vn/vi-nsg/category/mi-bun-topokki-an-lien-c190,mi-bun-topokki-an-lien,"Mì, Bún, Topokki Ăn Liền",68dd56228d5c1dd8f9cf5c4e,2025-10-01T16:43:08.665Z,2025-10-01T16:43:08.665Z
+68dd5a1c8d5c1dd8f9cf5cbd,https://www.lottemart.vn/vi-nsg/category/mi-bun-nui-kho-c197,mi-bun-nui-kho,"Mì, Bún, Nui Khô",68dd56228d5c1dd8f9cf5c4e,2025-10-01T16:43:08.665Z,2025-10-01T16:43:08.665Z
+68dd5a1c8d5c1dd8f9cf5cbe,https://www.lottemart.vn/vi-nsg/category/rong-bien-banh-trang-c199,rong-bien-banh-trang,"Rong Biển, Bánh Tráng",68dd56228d5c1dd8f9cf5c4e,2025-10-01T16:43:08.665Z,2025-10-01T16:43:08.665Z
+68dd5a2b8d5c1dd8f9cf5cbf,https://www.lottemart.vn/vi-nsg/category/rong-bien-c592,rong-bien,Rong Biển,68dd5a1c8d5c1dd8f9cf5cbe,2025-10-01T16:43:23.902Z,2025-10-01T16:43:23.902Z
+68dd5a2b8d5c1dd8f9cf5cc0,https://www.lottemart.vn/vi-nsg/category/banh-trang-banh-phong-c593,banh-trang-banh-phong,"Bánh Tráng, Bánh Phồng",68dd5a1c8d5c1dd8f9cf5cbe,2025-10-01T16:43:23.902Z,2025-10-01T16:43:23.902Z
+68dd5a4a8d5c1dd8f9cf5cc1,https://www.lottemart.vn/vi-nsg/category/nui-c587,nui,Nui,68dd5a1c8d5c1dd8f9cf5cbd,2025-10-01T16:43:54.779Z,2025-10-01T16:43:54.779Z
+68dd5a4a8d5c1dd8f9cf5cc2,https://www.lottemart.vn/vi-nsg/category/mi-y-c588,mi-y,Mì Ý,68dd5a1c8d5c1dd8f9cf5cbd,2025-10-01T16:43:54.779Z,2025-10-01T16:43:54.779Z
+68dd5a4a8d5c1dd8f9cf5cc3,https://www.lottemart.vn/vi-nsg/category/mien-bun-kho-c590,mien-bun-kho,"Miến, Bún Khô",68dd5a1c8d5c1dd8f9cf5cbd,2025-10-01T16:43:54.779Z,2025-10-01T16:43:54.779Z
+68dd5a6f8d5c1dd8f9cf5cc4,https://www.lottemart.vn/vi-nsg/category/mi-an-lien-c191,mi-an-lien,Mì Ăn Liền,68dd5a1c8d5c1dd8f9cf5cbc,2025-10-01T16:44:31.190Z,2025-10-01T16:44:31.190Z
+68dd5a6f8d5c1dd8f9cf5cc5,https://www.lottemart.vn/vi-nsg/category/pho-bun-an-lien-c192,pho-bun-an-lien,"Phở, Bún Ăn Liền",68dd5a1c8d5c1dd8f9cf5cbc,2025-10-01T16:44:31.190Z,2025-10-01T16:44:31.190Z
+68dd5a6f8d5c1dd8f9cf5cc6,https://www.lottemart.vn/vi-nsg/category/chao-com-an-lien-c193,chao-com-an-lien,"Cơm, Cháo, Canh Ăn Liền",68dd5a1c8d5c1dd8f9cf5cbc,2025-10-01T16:44:31.190Z,2025-10-01T16:44:31.190Z
+68dd5a6f8d5c1dd8f9cf5cc7,https://www.lottemart.vn/vi-nsg/category/topokki-c591,topokki,Topokki,68dd5a1c8d5c1dd8f9cf5cbc,2025-10-01T16:44:31.190Z,2025-10-01T16:44:31.190Z
+68dd5aa48d5c1dd8f9cf5cc8,https://www.lottemart.vn/vi-nsg/category/gao-c584,gao,Gạo,68dd5a1c8d5c1dd8f9cf5cbb,2025-10-01T16:45:24.155Z,2025-10-01T16:45:24.155Z
+68dd5aa48d5c1dd8f9cf5cc9,https://www.lottemart.vn/vi-nsg/category/dau-cac-loai-c585,dau-cac-loai,Đậu Các Loại,68dd5a1c8d5c1dd8f9cf5cbb,2025-10-01T16:45:24.155Z,2025-10-01T16:45:24.155Z
+68dd5aa48d5c1dd8f9cf5cca,https://www.lottemart.vn/vi-nsg/category/bot-cac-loai-c586,bot-cac-loai,Bột Các Loại,68dd5a1c8d5c1dd8f9cf5cbb,2025-10-01T16:45:24.155Z,2025-10-01T16:45:24.155Z
+68dd5aca8d5c1dd8f9cf5ccb,https://www.lottemart.vn/vi-nsg/category/thuc-pham-dong-hop-c162,thuc-pham-dong-hop,Thực Phẩm Đóng Hộp,68dd56228d5c1dd8f9cf5c4f,2025-10-01T16:46:02.103Z,2025-10-01T16:46:02.103Z
+68dd5aca8d5c1dd8f9cf5ccc,https://www.lottemart.vn/vi-nsg/category/thuc-pham-kho-c166,thuc-pham-kho,Thực Phẩm Khô,68dd56228d5c1dd8f9cf5c4f,2025-10-01T16:46:02.103Z,2025-10-01T16:46:02.103Z
+68dd5ad38d5c1dd8f9cf5ccd,https://www.lottemart.vn/vi-nsg/category/dac-san-kho-c566,dac-san-kho,Khô Chế Biến Sẵn,68dd5aca8d5c1dd8f9cf5ccc,2025-10-01T16:46:11.718Z,2025-10-01T16:46:11.718Z
+68dd5ad38d5c1dd8f9cf5cce,https://www.lottemart.vn/vi-nsg/category/mam-rau-cu-muoi-c570,mam-rau-cu-muoi,"Mắm, Rau Củ Muối",68dd5aca8d5c1dd8f9cf5ccc,2025-10-01T16:46:11.718Z,2025-10-01T16:46:11.718Z
+68dd5adc8d5c1dd8f9cf5ccf,https://www.lottemart.vn/vi-nsg/category/mam-cac-loai-c571,mam-cac-loai,Mắm Các Loại,68dd5ad38d5c1dd8f9cf5cce,2025-10-01T16:46:20.744Z,2025-10-01T16:46:20.744Z
+68dd5adc8d5c1dd8f9cf5cd0,https://www.lottemart.vn/vi-nsg/category/rau-cu-dua-muoi-c572,rau-cu-dua-muoi,"Rau Củ Muối, Chao",68dd5ad38d5c1dd8f9cf5cce,2025-10-01T16:46:20.744Z,2025-10-01T16:46:20.744Z
+68dd5af98d5c1dd8f9cf5cd1,https://www.lottemart.vn/vi-nsg/category/thit-kho-c567,thit-kho,Thịt Khô,68dd5ad38d5c1dd8f9cf5ccd,2025-10-01T16:46:49.293Z,2025-10-01T16:46:49.293Z
+68dd5af98d5c1dd8f9cf5cd2,https://www.lottemart.vn/vi-nsg/category/thuy-san-kho-c568,thuy-san-kho,Thủy Sản Khô,68dd5ad38d5c1dd8f9cf5ccd,2025-10-01T16:46:49.293Z,2025-10-01T16:46:49.293Z
+68dd5af98d5c1dd8f9cf5cd3,https://www.lottemart.vn/vi-nsg/category/mut-kho-o-mai-c569,mut-kho-o-mai,"Mứt Khô, Ô Mai",68dd5ad38d5c1dd8f9cf5ccd,2025-10-01T16:46:49.293Z,2025-10-01T16:46:49.293Z
+68dd5b288d5c1dd8f9cf5cd4,https://www.lottemart.vn/vi-nsg/category/thit-hop-c163,thit-hop,Thịt Hộp,68dd5aca8d5c1dd8f9cf5ccb,2025-10-01T16:47:36.436Z,2025-10-01T16:47:36.436Z
+68dd5b288d5c1dd8f9cf5cd5,https://www.lottemart.vn/vi-nsg/category/thuy-san-hop-c164,thuy-san-hop,Thủy Sản Hộp,68dd5aca8d5c1dd8f9cf5ccb,2025-10-01T16:47:36.436Z,2025-10-01T16:47:36.436Z
+68dd5b288d5c1dd8f9cf5cd6,https://www.lottemart.vn/vi-nsg/category/trai-cay-dong-hop-c165,trai-cay-dong-hop,Trái Cây Đóng Hộp,68dd5aca8d5c1dd8f9cf5ccb,2025-10-01T16:47:36.436Z,2025-10-01T16:47:36.436Z
+68dd5b288d5c1dd8f9cf5cd7,https://www.lottemart.vn/vi-nsg/category/rau-cu-dong-hop-c565,rau-cu-dong-hop,Rau Củ Đóng Hộp,68dd5aca8d5c1dd8f9cf5ccb,2025-10-01T16:47:36.436Z,2025-10-01T16:47:36.436Z
+68dd5b578d5c1dd8f9cf5cd8,https://www.lottemart.vn/vi-nsg/category/thuc-pham-tu-sua-c148,thuc-pham-tu-sua,Thực Phẩm Từ Sữa,68dd56228d5c1dd8f9cf5c50,2025-10-01T16:48:23.545Z,2025-10-01T16:48:23.545Z
+68dd5b578d5c1dd8f9cf5cd9,https://www.lottemart.vn/vi-nsg/category/sua-c158,sua,Sữa,68dd56228d5c1dd8f9cf5c50,2025-10-01T16:48:23.545Z,2025-10-01T16:48:23.545Z
+68dd5b618d5c1dd8f9cf5cda,https://www.lottemart.vn/vi-nsg/category/sua-bot-c159,sua-bot,Sữa Bột,68dd5b578d5c1dd8f9cf5cd9,2025-10-01T16:48:33.495Z,2025-10-01T16:48:33.495Z
+68dd5b618d5c1dd8f9cf5cdb,https://www.lottemart.vn/vi-nsg/category/sua-chua-vang-sua-c160,sua-chua-vang-sua,"Sữa Chua, Váng Sữa",68dd5b578d5c1dd8f9cf5cd9,2025-10-01T16:48:33.495Z,2025-10-01T16:48:33.495Z
+68dd5b618d5c1dd8f9cf5cdc,https://www.lottemart.vn/vi-nsg/category/sua-tuoi-c560,sua-tuoi,Sữa Nước,68dd5b578d5c1dd8f9cf5cd9,2025-10-01T16:48:33.495Z,2025-10-01T16:48:33.495Z
+68dd5b618d5c1dd8f9cf5cdd,https://www.lottemart.vn/vi-nsg/category/sua-dac-c559,sua-dac,Sữa Đặc,68dd5b578d5c1dd8f9cf5cd9,2025-10-01T16:48:33.495Z,2025-10-01T16:48:33.495Z
+68dd5b748d5c1dd8f9cf5cde,https://www.lottemart.vn/vi-nsg/category/sua-hat-sua-dau-c561,sua-hat-sua-dau,"Sữa Hạt, Sữa Đậu",68dd5b618d5c1dd8f9cf5cdc,2025-10-01T16:48:52.533Z,2025-10-01T16:48:52.533Z
+68dd5b748d5c1dd8f9cf5cdf,https://www.lottemart.vn/vi-nsg/category/sua-co-duong-c562,sua-co-duong,Sữa Có Đường,68dd5b618d5c1dd8f9cf5cdc,2025-10-01T16:48:52.533Z,2025-10-01T16:48:52.533Z
+68dd5b748d5c1dd8f9cf5ce0,https://www.lottemart.vn/vi-nsg/category/sua-khong-duong-c563,sua-khong-duong,Sữa Không Đường,68dd5b618d5c1dd8f9cf5cdc,2025-10-01T16:48:52.533Z,2025-10-01T16:48:52.533Z
+68dd5b748d5c1dd8f9cf5ce1,https://www.lottemart.vn/vi-nsg/category/sua-cong-thuc-c564,sua-cong-thuc,Sữa Công Thức,68dd5b618d5c1dd8f9cf5cdc,2025-10-01T16:48:52.533Z,2025-10-01T16:48:52.533Z
+68dd5ba48d5c1dd8f9cf5ce2,https://www.lottemart.vn/vi-nsg/category/sua-chua-an-c556,sua-chua-an,Sữa Chua Ăn,68dd5b618d5c1dd8f9cf5cdb,2025-10-01T16:49:40.467Z,2025-10-01T16:49:40.467Z
+68dd5ba48d5c1dd8f9cf5ce3,https://www.lottemart.vn/vi-nsg/category/sua-chua-uong-c557,sua-chua-uong,Sữa Chua Uống,68dd5b618d5c1dd8f9cf5cdb,2025-10-01T16:49:40.467Z,2025-10-01T16:49:40.467Z
+68dd5ba48d5c1dd8f9cf5ce4,https://www.lottemart.vn/vi-nsg/category/vang-sua-c558,vang-sua,Váng Sữa,68dd5b618d5c1dd8f9cf5cdb,2025-10-01T16:49:40.467Z,2025-10-01T16:49:40.467Z
+68dd5bd08d5c1dd8f9cf5ce5,https://www.lottemart.vn/vi-nsg/category/0-12-thang-c551,0-12-thang,0-12 Tháng,68dd5b618d5c1dd8f9cf5cda,2025-10-01T16:50:24.840Z,2025-10-01T16:50:24.840Z
+68dd5bd08d5c1dd8f9cf5ce6,https://www.lottemart.vn/vi-nsg/category/12-36-thang-c552,12-36-thang,12 - 36 Tháng,68dd5b618d5c1dd8f9cf5cda,2025-10-01T16:50:24.840Z,2025-10-01T16:50:24.840Z
+68dd5bd08d5c1dd8f9cf5ce7,https://www.lottemart.vn/vi-nsg/category/36-thang-tro-len-c553,36-thang-tro-len,36 Tháng Trở Lên,68dd5b618d5c1dd8f9cf5cda,2025-10-01T16:50:24.840Z,2025-10-01T16:50:24.840Z
+68dd5bd08d5c1dd8f9cf5ce8,https://www.lottemart.vn/vi-nsg/category/sua-bau-c554,sua-bau,Sữa Bầu,68dd5b618d5c1dd8f9cf5cda,2025-10-01T16:50:24.840Z,2025-10-01T16:50:24.840Z
+68dd5bd08d5c1dd8f9cf5ce9,https://www.lottemart.vn/vi-nsg/category/sua-nguoi-lon-c555,sua-nguoi-lon,Sữa Người Lớn,68dd5b618d5c1dd8f9cf5cda,2025-10-01T16:50:24.840Z,2025-10-01T16:50:24.840Z
+68dd5bd08d5c1dd8f9cf5cea,https://www.lottemart.vn/vi-nsg/category/bot-an-dam-c731,bot-an-dam,Bột Ăn Dặm,68dd5b618d5c1dd8f9cf5cda,2025-10-01T16:50:24.840Z,2025-10-01T16:50:24.840Z
+68dd5c198d5c1dd8f9cf5ceb,https://www.lottemart.vn/vi-nsg/category/bo-pho-mai-c544,bo-pho-mai,"Bơ, Phô Mai",68dd5b578d5c1dd8f9cf5cd8,2025-10-01T16:51:37.422Z,2025-10-01T16:51:37.422Z
+68dd5c198d5c1dd8f9cf5cec,https://www.lottemart.vn/vi-nsg/category/trang-mieng-c548,trang-mieng,Tráng Miệng,68dd5b578d5c1dd8f9cf5cd8,2025-10-01T16:51:37.422Z,2025-10-01T16:51:37.422Z
+68dd5c228d5c1dd8f9cf5ced,https://www.lottemart.vn/vi-nsg/category/flan-pudding-thach-c550,flan-pudding-thach,"Flan, Pudding, Thạch",68dd5c198d5c1dd8f9cf5cec,2025-10-01T16:51:46.930Z,2025-10-01T16:51:46.930Z
+68dd5c358d5c1dd8f9cf5cee,https://www.lottemart.vn/vi-nsg/category/bo-c545,bo,Bơ,68dd5c198d5c1dd8f9cf5ceb,2025-10-01T16:52:05.001Z,2025-10-01T16:52:05.001Z
+68dd5c358d5c1dd8f9cf5cef,https://www.lottemart.vn/vi-nsg/category/pho-mai-c546,pho-mai,Phô Mai,68dd5c198d5c1dd8f9cf5ceb,2025-10-01T16:52:05.001Z,2025-10-01T16:52:05.001Z
+68dd5c358d5c1dd8f9cf5cf0,https://www.lottemart.vn/vi-nsg/category/kem-tuoi-whipping-cream-c547,kem-tuoi-whipping-cream,"Kem Tươi, Whipping Cream",68dd5c198d5c1dd8f9cf5ceb,2025-10-01T16:52:05.001Z,2025-10-01T16:52:05.001Z
+68dd5c5b8d5c1dd8f9cf5cf1,https://www.lottemart.vn/vi-nsg/category/bun-tuoi-banh-pho-c232,bun-tuoi-banh-pho,"Bún Tươi, Bánh Phở",68dd56228d5c1dd8f9cf5c51,2025-10-01T16:52:43.490Z,2025-10-01T16:52:43.490Z
+68dd5c5b8d5c1dd8f9cf5cf2,https://www.lottemart.vn/vi-nsg/category/mon-an-nhanh-c234,mon-an-nhanh,Món Ăn Nhanh,68dd56228d5c1dd8f9cf5c51,2025-10-01T16:52:43.490Z,2025-10-01T16:52:43.490Z
+68dd5c5b8d5c1dd8f9cf5cf3,https://www.lottemart.vn/vi-nsg/category/mon-trang-mieng-c243,mon-trang-mieng,Món Tráng Miệng,68dd56228d5c1dd8f9cf5c51,2025-10-01T16:52:43.490Z,2025-10-01T16:52:43.490Z
+68dd5c5b8d5c1dd8f9cf5cf4,https://www.lottemart.vn/vi-nsg/category/mon-an-nhanh-khac-c244,mon-an-nhanh-khac,Món Ăn Nhanh Khác,68dd56228d5c1dd8f9cf5c51,2025-10-01T16:52:43.490Z,2025-10-01T16:52:43.490Z
+68dd5c8e8d5c1dd8f9cf5cf5,https://www.lottemart.vn/vi-nsg/category/bua-sang-c120,bua-sang,Bữa Sáng,68dd56228d5c1dd8f9cf5c52,2025-10-01T16:53:34.387Z,2025-10-01T16:53:34.387Z
+68dd5c8e8d5c1dd8f9cf5cf6,https://www.lottemart.vn/vi-nsg/category/banh-cac-loai-c112,banh-cac-loai,Bánh Các Loại,68dd56228d5c1dd8f9cf5c52,2025-10-01T16:53:34.387Z,2025-10-01T16:53:34.387Z
+68dd5c8e8d5c1dd8f9cf5cf7,https://www.lottemart.vn/vi-nsg/category/snack-an-vat-c121,snack-an-vat,"Snack, Ăn Vặt",68dd56228d5c1dd8f9cf5c52,2025-10-01T16:53:34.387Z,2025-10-01T16:53:34.387Z
+68dd5c8e8d5c1dd8f9cf5cf8,https://www.lottemart.vn/vi-nsg/category/chocolate-c115,chocolate,Socola,68dd56228d5c1dd8f9cf5c52,2025-10-01T16:53:34.387Z,2025-10-01T16:53:34.387Z
+68dd5c8e8d5c1dd8f9cf5cf9,https://www.lottemart.vn/vi-nsg/category/keo-c119,keo,Kẹo,68dd56228d5c1dd8f9cf5c52,2025-10-01T16:53:34.387Z,2025-10-01T16:53:34.387Z
+68dd5c8e8d5c1dd8f9cf5cfa,https://www.lottemart.vn/vi-nsg/category/banh-keo-khac-c116,banh-keo-khac,Bánh Kẹo Khác,68dd56228d5c1dd8f9cf5c52,2025-10-01T16:53:34.387Z,2025-10-01T16:53:34.387Z
+68dd5cb38d5c1dd8f9cf5cfb,https://www.lottemart.vn/vi-nsg/category/banh-snacks-c522,banh-snacks,Bánh Snack,68dd5c8e8d5c1dd8f9cf5cf7,2025-10-01T16:54:11.578Z,2025-10-01T16:54:11.578Z
+68dd5cb38d5c1dd8f9cf5cfc,https://www.lottemart.vn/vi-nsg/category/banh-que-banh-gau-c523,banh-que-banh-gau,"Bánh Que, Bánh Gấu",68dd5c8e8d5c1dd8f9cf5cf7,2025-10-01T16:54:11.578Z,2025-10-01T16:54:11.578Z
+68dd5cce8d5c1dd8f9cf5cfd,https://www.lottemart.vn/vi-nsg/category/banh-quy-c113,banh-quy,Bánh Quy,68dd5c8e8d5c1dd8f9cf5cf6,2025-10-01T16:54:38.753Z,2025-10-01T16:54:38.753Z
+68dd5cce8d5c1dd8f9cf5cfe,https://www.lottemart.vn/vi-nsg/category/banh-xop-c114,banh-xop,Bánh Xốp,68dd5c8e8d5c1dd8f9cf5cf6,2025-10-01T16:54:38.754Z,2025-10-01T16:54:38.754Z
+68dd5cce8d5c1dd8f9cf5cff,https://www.lottemart.vn/vi-nsg/category/banh-bong-lan-c521,banh-bong-lan,Bánh Bông Lan,68dd5c8e8d5c1dd8f9cf5cf6,2025-10-01T16:54:38.754Z,2025-10-01T16:54:38.754Z
+68dd5cce8d5c1dd8f9cf5d00,https://www.lottemart.vn/vi-nsg/category/banh-an-dam-c730,banh-an-dam,Bánh Ăn Dặm,68dd5c8e8d5c1dd8f9cf5cf6,2025-10-01T16:54:38.754Z,2025-10-01T16:54:38.754Z
+68dd5cfd8d5c1dd8f9cf5d01,https://www.lottemart.vn/vi-nsg/category/hat-trai-cay-say-c525,hat-trai-cay-say,"Hạt, Trái Cây Sấy",68dd5c8e8d5c1dd8f9cf5cf5,2025-10-01T16:55:25.654Z,2025-10-01T16:55:25.654Z
+68dd5cfd8d5c1dd8f9cf5d02,https://www.lottemart.vn/vi-nsg/category/banh-an-sang-c524,banh-an-sang,"Bánh, Ngũ Cốc",68dd5c8e8d5c1dd8f9cf5cf5,2025-10-01T16:55:25.654Z,2025-10-01T16:55:25.654Z
+68dd5cfd8d5c1dd8f9cf5d03,https://www.lottemart.vn/vi-nsg/category/bo-phet-dau-phong-c529,bo-phet-dau-phong,"Bơ Phết, Đậu Phộng",68dd5c8e8d5c1dd8f9cf5cf5,2025-10-01T16:55:25.654Z,2025-10-01T16:55:25.654Z
+68dd5d1a8d5c1dd8f9cf5d04,https://www.lottemart.vn/vi-nsg/category/hat-say-kho-c526,hat-say-kho,Hạt Sấy Khô,68dd5cfd8d5c1dd8f9cf5d01,2025-10-01T16:55:54.959Z,2025-10-01T16:55:54.959Z
+68dd5d1a8d5c1dd8f9cf5d05,https://www.lottemart.vn/vi-nsg/category/trai-cay-say-c527,trai-cay-say,Trái Cây Sấy,68dd5cfd8d5c1dd8f9cf5d01,2025-10-01T16:55:54.959Z,2025-10-01T16:55:54.959Z
+68dd5d368d5c1dd8f9cf5d06,https://www.lottemart.vn/vi-nsg/category/tra-ca-phe-dong-chai-c141,tra-ca-phe-dong-chai,"Trà, Cà Phê Đóng Chai",68dd56228d5c1dd8f9cf5c53,2025-10-01T16:56:22.537Z,2025-10-01T16:56:22.537Z
+68dd5d368d5c1dd8f9cf5d07,https://www.lottemart.vn/vi-nsg/category/tra-ca-phe-pha-che-c142,tra-ca-phe-pha-che,"Trà, Cà Phê Pha Chế",68dd56228d5c1dd8f9cf5c53,2025-10-01T16:56:22.537Z,2025-10-01T16:56:22.537Z
+68dd5d408d5c1dd8f9cf5d08,https://www.lottemart.vn/vi-nsg/category/ca-phe-c538,ca-phe,Cà Phê,68dd5d368d5c1dd8f9cf5d07,2025-10-01T16:56:32.006Z,2025-10-01T16:56:32.006Z
+68dd5d408d5c1dd8f9cf5d09,https://www.lottemart.vn/vi-nsg/category/tra-c539,tra,Trà,68dd5d368d5c1dd8f9cf5d07,2025-10-01T16:56:32.006Z,2025-10-01T16:56:32.006Z
+68dd5d408d5c1dd8f9cf5d0a,https://www.lottemart.vn/vi-nsg/category/bot-socola-ca-cao-c722,bot-socola-ca-cao,"Bột Socola, Ca Cao",68dd5d368d5c1dd8f9cf5d07,2025-10-01T16:56:32.006Z,2025-10-01T16:56:32.006Z
+68dd5d528d5c1dd8f9cf5d0b,https://www.lottemart.vn/vi-nsg/category/tra-say-kho-c725,tra-say-kho,Trà Sấy Khô,68dd5d408d5c1dd8f9cf5d09,2025-10-01T16:56:50.471Z,2025-10-01T16:56:50.471Z
+68dd5d528d5c1dd8f9cf5d0c,https://www.lottemart.vn/vi-nsg/category/tra-tui-loc-c726,tra-tui-loc,Trà Túi Lọc,68dd5d408d5c1dd8f9cf5d09,2025-10-01T16:56:50.471Z,2025-10-01T16:56:50.471Z
+68dd5d6f8d5c1dd8f9cf5d0d,https://www.lottemart.vn/vi-nsg/category/ca-phe-hoa-tan-c723,ca-phe-hoa-tan,Cà Phê Hòa Tan,68dd5d408d5c1dd8f9cf5d08,2025-10-01T16:57:19.097Z,2025-10-01T16:57:19.097Z
+68dd5d6f8d5c1dd8f9cf5d0e,https://www.lottemart.vn/vi-nsg/category/ca-phe-hat-phin-c724,ca-phe-hat-phin,"Cà Phê Hạt, Phin",68dd5d408d5c1dd8f9cf5d08,2025-10-01T16:57:19.097Z,2025-10-01T16:57:19.097Z
+68dd5d8b8d5c1dd8f9cf5d0f,https://www.lottemart.vn/vi-nsg/category/tra-dong-chai-c720,tra-dong-chai,Trà Đóng Chai,68dd5d368d5c1dd8f9cf5d06,2025-10-01T16:57:47.124Z,2025-10-01T16:57:47.124Z
+68dd5d8b8d5c1dd8f9cf5d10,https://www.lottemart.vn/vi-nsg/category/ca-phe-dong-chai-c721,ca-phe-dong-chai,Cà Phê Đóng Chai,68dd5d368d5c1dd8f9cf5d06,2025-10-01T16:57:47.124Z,2025-10-01T16:57:47.124Z
+68dd5da88d5c1dd8f9cf5d11,https://www.lottemart.vn/vi-nsg/category/banh-kem-banh-lanh-c227,banh-kem-banh-lanh,"Bánh Kem, Bánh Lạnh",68dd56228d5c1dd8f9cf5c54,2025-10-01T16:58:16.358Z,2025-10-01T16:58:16.358Z
+68dd5da88d5c1dd8f9cf5d12,https://www.lottemart.vn/vi-nsg/category/banh-man-ngot-c228,banh-man-ngot,"Pastry, Pie",68dd56228d5c1dd8f9cf5c54,2025-10-01T16:58:16.358Z,2025-10-01T16:58:16.358Z
+68dd5da88d5c1dd8f9cf5d13,https://www.lottemart.vn/vi-nsg/category/banh-lat-c229,banh-lat,Bánh Lạt,68dd56228d5c1dd8f9cf5c54,2025-10-01T16:58:16.358Z,2025-10-01T16:58:16.358Z
+68dd5da88d5c1dd8f9cf5d14,https://www.lottemart.vn/vi-nsg/category/pizza-c230,pizza,Pizza,68dd56228d5c1dd8f9cf5c54,2025-10-01T16:58:16.358Z,2025-10-01T16:58:16.358Z
+68dd5dd68d5c1dd8f9cf5d15,https://www.lottemart.vn/vi-nsg/category/ruou-c125,ruou,Rượu,68dd56228d5c1dd8f9cf5c55,2025-10-01T16:59:02.257Z,2025-10-01T16:59:02.257Z
+68dd5dd68d5c1dd8f9cf5d16,https://www.lottemart.vn/vi-nsg/category/nuoc-ngot-c133,nuoc-ngot,Nước Ngọt,68dd56228d5c1dd8f9cf5c55,2025-10-01T16:59:02.257Z,2025-10-01T16:59:02.257Z
+68dd5dd68d5c1dd8f9cf5d17,https://www.lottemart.vn/vi-nsg/category/bia-c123,bia,Bia,68dd56228d5c1dd8f9cf5c55,2025-10-01T16:59:02.257Z,2025-10-01T16:59:02.257Z
+68dd5dd68d5c1dd8f9cf5d18,https://www.lottemart.vn/vi-nsg/category/nuoc-suoi-c136,nuoc-suoi,Nước Suối,68dd56228d5c1dd8f9cf5c55,2025-10-01T16:59:02.257Z,2025-10-01T16:59:02.257Z
+68dd5dd68d5c1dd8f9cf5d19,https://www.lottemart.vn/vi-nsg/category/do-uong-khac-c137,do-uong-khac,Đồ Uống Khác,68dd56228d5c1dd8f9cf5c55,2025-10-01T16:59:02.257Z,2025-10-01T16:59:02.257Z
+68dd5dfa8d5c1dd8f9cf5d1a,https://www.lottemart.vn/vi-nsg/category/nuoc-co-ga-c134,nuoc-co-ga,Nước Có Ga,68dd5dd68d5c1dd8f9cf5d16,2025-10-01T16:59:38.946Z,2025-10-01T16:59:38.946Z
+68dd5dfa8d5c1dd8f9cf5d1b,https://www.lottemart.vn/vi-nsg/category/tang-luc-bu-khoang-c135,tang-luc-bu-khoang,"Tăng Lực, Bù Khoáng",68dd5dd68d5c1dd8f9cf5d16,2025-10-01T16:59:38.946Z,2025-10-01T16:59:38.946Z
+68dd5dfa8d5c1dd8f9cf5d1c,https://www.lottemart.vn/vi-nsg/category/nuoc-trai-cay-c535,nuoc-trai-cay,Nước Trái Cây,68dd5dd68d5c1dd8f9cf5d16,2025-10-01T16:59:38.946Z,2025-10-01T16:59:38.946Z
+68dd5dfa8d5c1dd8f9cf5d1d,https://www.lottemart.vn/vi-nsg/category/nuoc-dinh-duong-c536,nuoc-dinh-duong,Nước Dinh Dưỡng,68dd5dd68d5c1dd8f9cf5d16,2025-10-01T16:59:38.946Z,2025-10-01T16:59:38.946Z
+68dd5e388d5c1dd8f9cf5d1e,https://www.lottemart.vn/vi-nsg/category/cider-c126,cider,Cider,68dd5dd68d5c1dd8f9cf5d15,2025-10-01T17:00:40.459Z,2025-10-01T17:00:40.459Z
+68dd5e388d5c1dd8f9cf5d1f,https://www.lottemart.vn/vi-nsg/category/vang-do-c127,vang-do,Vang Đỏ,68dd5dd68d5c1dd8f9cf5d15,2025-10-01T17:00:40.459Z,2025-10-01T17:00:40.459Z
+68dd5e388d5c1dd8f9cf5d20,https://www.lottemart.vn/vi-nsg/category/vang-trang-vang-hong-c530,vang-trang-vang-hong,"Vang Trắng, Vang Hồng",68dd5dd68d5c1dd8f9cf5d15,2025-10-01T17:00:40.459Z,2025-10-01T17:00:40.459Z
+68dd5e388d5c1dd8f9cf5d21,https://www.lottemart.vn/vi-nsg/category/sam-panh-vang-sui-c531,sam-panh-vang-sui,Sâm Panh & Vang Sủi,68dd5dd68d5c1dd8f9cf5d15,2025-10-01T17:00:40.459Z,2025-10-01T17:00:40.459Z
+68dd5e388d5c1dd8f9cf5d22,https://www.lottemart.vn/vi-nsg/category/ruou-manh-c532,ruou-manh,Rượu Mạnh,68dd5dd68d5c1dd8f9cf5d15,2025-10-01T17:00:40.459Z,2025-10-01T17:00:40.459Z
+68dd5e388d5c1dd8f9cf5d23,https://www.lottemart.vn/vi-nsg/category/soju-c533,soju,Soju,68dd5dd68d5c1dd8f9cf5d15,2025-10-01T17:00:40.459Z,2025-10-01T17:00:40.459Z
+68dd5e388d5c1dd8f9cf5d24,https://www.lottemart.vn/vi-nsg/category/ruou-khac-c534,ruou-khac,Rượu Khác,68dd5dd68d5c1dd8f9cf5d15,2025-10-01T17:00:40.459Z,2025-10-01T17:00:40.459Z
+68dd5e848d5c1dd8f9cf5d25,https://www.lottemart.vn/vi-nsg/category/hong-sam-nhan-sam-c263,hong-sam-nhan-sam,"Hồng Sâm, Nhân Sâm",68dd56228d5c1dd8f9cf5c56,2025-10-01T17:01:56.641Z,2025-10-01T17:01:56.641Z
+68dd5e848d5c1dd8f9cf5d26,https://www.lottemart.vn/vi-nsg/category/nuoc-yen-c507,nuoc-yen,Nước Yến,68dd56228d5c1dd8f9cf5c56,2025-10-01T17:01:56.641Z,2025-10-01T17:01:56.641Z
+68dd5e848d5c1dd8f9cf5d27,https://www.lottemart.vn/vi-nsg/category/mat-ong-c508,mat-ong,Mật Ong,68dd56228d5c1dd8f9cf5c56,2025-10-01T17:01:56.641Z,2025-10-01T17:01:56.641Z
+68dd5e848d5c1dd8f9cf5d28,https://www.lottemart.vn/vi-nsg/category/bot-nghe-vien-nghe-c509,bot-nghe-vien-nghe,"Bột Nghệ, Viên Nghệ",68dd56228d5c1dd8f9cf5c56,2025-10-01T17:01:56.641Z,2025-10-01T17:01:56.641Z
+68dd5e848d5c1dd8f9cf5d29,https://www.lottemart.vn/vi-nsg/category/thuc-pham-giam-can-c262,thuc-pham-giam-can,Thực Phẩm Giảm Cân,68dd56228d5c1dd8f9cf5c56,2025-10-01T17:01:56.641Z,2025-10-01T17:01:56.641Z
+68dd5e848d5c1dd8f9cf5d2a,https://www.lottemart.vn/vi-nsg/category/thuc-pham-chuc-nang-c264,thuc-pham-chuc-nang,Thực Phẩm Chức Năng,68dd56228d5c1dd8f9cf5c56,2025-10-01T17:01:56.641Z,2025-10-01T17:01:56.641Z
+68dd5ec48d5c1dd8f9cf5d2b,https://www.lottemart.vn/vi-nsg/category/cham-soc-da-mat-c317,cham-soc-da-mat,Chăm Sóc Da Mặt,68dd56228d5c1dd8f9cf5c57,2025-10-01T17:03:00.911Z,2025-10-01T17:03:00.911Z
+68dd5ec48d5c1dd8f9cf5d2c,https://www.lottemart.vn/vi-nsg/category/trang-diem-c324,trang-diem,Trang Điểm,68dd56228d5c1dd8f9cf5c57,2025-10-01T17:03:00.911Z,2025-10-01T17:03:00.911Z
+68dd5ec48d5c1dd8f9cf5d2d,https://www.lottemart.vn/vi-nsg/category/other-health-beauty-c769,other-health-beauty,Chăm Sóc Khác,68dd56228d5c1dd8f9cf5c57,2025-10-01T17:03:00.911Z,2025-10-01T17:03:00.911Z
+68dd5ed78d5c1dd8f9cf5d2e,https://www.lottemart.vn/vi-nsg/category/tay-trang-c652,tay-trang,Tẩy Trang,68dd5ec48d5c1dd8f9cf5d2c,2025-10-01T17:03:19.987Z,2025-10-01T17:03:19.987Z
+68dd5ed78d5c1dd8f9cf5d2f,https://www.lottemart.vn/vi-nsg/category/trang-diem-mat-c651,trang-diem-mat,Trang Điểm Mặt,68dd5ec48d5c1dd8f9cf5d2c,2025-10-01T17:03:19.987Z,2025-10-01T17:03:19.987Z
+68dd5ed78d5c1dd8f9cf5d30,https://www.lottemart.vn/vi-nsg/category/cham-soc-mong-c655,cham-soc-mong,Chăm Sóc Móng,68dd5ec48d5c1dd8f9cf5d2c,2025-10-01T17:03:19.987Z,2025-10-01T17:03:19.987Z
+68dd5ef58d5c1dd8f9cf5d31,https://www.lottemart.vn/vi-nsg/category/nuoc-tay-trang-c653,nuoc-tay-trang,Nước Tẩy Trang,68dd5ed78d5c1dd8f9cf5d2e,2025-10-01T17:03:49.195Z,2025-10-01T17:03:49.195Z
+68dd5ef58d5c1dd8f9cf5d32,https://www.lottemart.vn/vi-nsg/category/bong-tay-trang-khan-tay-trang-c654,bong-tay-trang-khan-tay-trang,"Bông Tẩy Trang, Khăn Tẩy Trang",68dd5ed78d5c1dd8f9cf5d2e,2025-10-01T17:03:49.195Z,2025-10-01T17:03:49.195Z
+68dd5f128d5c1dd8f9cf5d33,https://www.lottemart.vn/vi-nsg/category/lam-sach-c657,lam-sach,Làm Sạch,68dd5ec48d5c1dd8f9cf5d2b,2025-10-01T17:04:18.337Z,2025-10-01T17:04:18.337Z
+68dd5f128d5c1dd8f9cf5d34,https://www.lottemart.vn/vi-nsg/category/mat-na-c656,mat-na,Mặt Nạ,68dd5ec48d5c1dd8f9cf5d2b,2025-10-01T17:04:18.337Z,2025-10-01T17:04:18.337Z
+68dd5f128d5c1dd8f9cf5d35,https://www.lottemart.vn/vi-nsg/category/kem-chong-nang-c662,kem-chong-nang,Chống Nắng,68dd5ec48d5c1dd8f9cf5d2b,2025-10-01T17:04:18.337Z,2025-10-01T17:04:18.337Z
+68dd5f128d5c1dd8f9cf5d36,https://www.lottemart.vn/vi-nsg/category/kem-va-sua-duong-da-c663,kem-va-sua-duong-da,Dưỡng Da,68dd5ec48d5c1dd8f9cf5d2b,2025-10-01T17:04:18.337Z,2025-10-01T17:04:18.337Z
+68dd5f3f8d5c1dd8f9cf5d37,https://www.lottemart.vn/vi-nsg/category/nuoc-hoa-hong-toner-xit-khoang-c658,nuoc-hoa-hong-toner-xit-khoang,"Nước Hoa Hồng, Toner, Xịt Khoáng",68dd5f128d5c1dd8f9cf5d33,2025-10-01T17:05:03.760Z,2025-10-01T17:05:03.760Z
+68dd5f3f8d5c1dd8f9cf5d38,https://www.lottemart.vn/vi-nsg/category/sua-rua-mat-c659,sua-rua-mat,Sữa Rửa Mặt,68dd5f128d5c1dd8f9cf5d33,2025-10-01T17:05:03.761Z,2025-10-01T17:05:03.761Z
+68dd5f3f8d5c1dd8f9cf5d39,https://www.lottemart.vn/vi-nsg/category/tay-te-bao-chet-c660,tay-te-bao-chet,Tẩy Tế Bào Chết,68dd5f128d5c1dd8f9cf5d33,2025-10-01T17:05:03.761Z,2025-10-01T17:05:03.761Z
+68dd5f3f8d5c1dd8f9cf5d3a,https://www.lottemart.vn/vi-nsg/category/dung-cu-ve-sinh-khac-c661,dung-cu-ve-sinh-khac,Sản Phẩm Làm Sạch Khác,68dd5f128d5c1dd8f9cf5d33,2025-10-01T17:05:03.761Z,2025-10-01T17:05:03.761Z
+68dd5f718d5c1dd8f9cf5d3b,https://www.lottemart.vn/vi-nsg/category/cham-soc-be-c517,cham-soc-be,Chăm Sóc Bé,68dd56228d5c1dd8f9cf5c58,2025-10-01T17:05:53.337Z,2025-10-01T17:05:53.337Z
+68dd5f718d5c1dd8f9cf5d3c,https://www.lottemart.vn/vi-nsg/category/do-choi-thu-bong-c519,do-choi-thu-bong,"Đồ Chơi, Thú Bông",68dd56228d5c1dd8f9cf5c58,2025-10-01T17:05:53.338Z,2025-10-01T17:05:53.338Z
+68dd5f7b8d5c1dd8f9cf5d3d,https://www.lottemart.vn/vi-nsg/category/thu-bong-c678,thu-bong,Thú Bông,68dd5f718d5c1dd8f9cf5d3c,2025-10-01T17:06:03.777Z,2025-10-01T17:06:03.777Z
+68dd5f7b8d5c1dd8f9cf5d3e,https://www.lottemart.vn/vi-nsg/category/do-choi-be-trai-c679,do-choi-be-trai,Đồ Chơi Bé Trai,68dd5f718d5c1dd8f9cf5d3c,2025-10-01T17:06:03.777Z,2025-10-01T17:06:03.777Z
+68dd5f7b8d5c1dd8f9cf5d3f,https://www.lottemart.vn/vi-nsg/category/do-choi-be-gai-c680,do-choi-be-gai,Đồ Chơi Bé Gái,68dd5f718d5c1dd8f9cf5d3c,2025-10-01T17:06:03.777Z,2025-10-01T17:06:03.777Z
+68dd5fa28d5c1dd8f9cf5d40,https://www.lottemart.vn/vi-nsg/category/ve-sinh-c674,ve-sinh,Vệ Sinh,68dd5f718d5c1dd8f9cf5d3b,2025-10-01T17:06:42.158Z,2025-10-01T17:06:42.158Z
+68dd5fa28d5c1dd8f9cf5d41,https://www.lottemart.vn/vi-nsg/category/cham-soc-suc-khoe-c675,cham-soc-suc-khoe,Chăm Sóc Sức Khỏe,68dd5f718d5c1dd8f9cf5d3b,2025-10-01T17:06:42.158Z,2025-10-01T17:06:42.158Z
+68dd5fa28d5c1dd8f9cf5d42,https://www.lottemart.vn/vi-nsg/category/dung-cu-an-uong-c676,dung-cu-an-uong,Dụng Cụ Ăn Uống,68dd5f718d5c1dd8f9cf5d3b,2025-10-01T17:06:42.158Z,2025-10-01T17:06:42.158Z
+68dd5fa28d5c1dd8f9cf5d43,https://www.lottemart.vn/vi-nsg/category/mieng-lot-ta-tre-em-c677,mieng-lot-ta-tre-em,"Miếng Lót, Tã Trẻ Em",68dd5f718d5c1dd8f9cf5d3b,2025-10-01T17:06:42.158Z,2025-10-01T17:06:42.158Z
+68dd5fc78d5c1dd8f9cf5d44,https://www.lottemart.vn/vi-nsg/category/baby-oral-care-c753,baby-oral-care,Răng Miệng,68dd5fa28d5c1dd8f9cf5d40,2025-10-01T17:07:19.128Z,2025-10-01T17:07:19.128Z
+68dd5fc78d5c1dd8f9cf5d45,https://www.lottemart.vn/vi-nsg/category/baby-bath-body-care-c754,baby-bath-body-care,Cơ Thể,68dd5fa28d5c1dd8f9cf5d40,2025-10-01T17:07:19.128Z,2025-10-01T17:07:19.128Z
+68dd5fe58d5c1dd8f9cf5d46,https://www.lottemart.vn/vi-nsg/category/cham-soc-nam-gioi-c326,cham-soc-nam-gioi,Chăm Sóc Nam Giới,68dd56228d5c1dd8f9cf5c59,2025-10-01T17:07:49.044Z,2025-10-01T17:07:49.044Z
+68dd5fe58d5c1dd8f9cf5d47,https://www.lottemart.vn/vi-nsg/category/cham-soc-co-the-c350,cham-soc-co-the,Chăm Sóc Cơ Thể,68dd56228d5c1dd8f9cf5c59,2025-10-01T17:07:49.044Z,2025-10-01T17:07:49.044Z
+68dd5fee8d5c1dd8f9cf5d48,https://www.lottemart.vn/vi-nsg/category/cham-soc-co-the-c681,cham-soc-co-the,Chăm Sóc Cơ Thể,68dd5fe58d5c1dd8f9cf5d47,2025-10-01T17:07:58.720Z,2025-10-01T17:07:58.720Z
+68dd5fee8d5c1dd8f9cf5d49,https://www.lottemart.vn/vi-nsg/category/lam-sach-co-the-c686,lam-sach-co-the,Làm Sạch Cơ Thể,68dd5fe58d5c1dd8f9cf5d47,2025-10-01T17:07:58.720Z,2025-10-01T17:07:58.720Z
+68dd5fee8d5c1dd8f9cf5d4a,https://www.lottemart.vn/vi-nsg/category/ve-sinh-phu-nu-c690,ve-sinh-phu-nu,Vệ Sinh Phụ Nữ,68dd5fe58d5c1dd8f9cf5d47,2025-10-01T17:07:58.720Z,2025-10-01T17:07:58.720Z
+68dd5fee8d5c1dd8f9cf5d4b,https://www.lottemart.vn/vi-nsg/category/cham-soc-toc-c694,cham-soc-toc,Chăm Sóc Tóc,68dd5fe58d5c1dd8f9cf5d47,2025-10-01T17:07:58.720Z,2025-10-01T17:07:58.720Z
+68dd5fee8d5c1dd8f9cf5d4c,https://www.lottemart.vn/vi-nsg/category/cham-soc-rang-mieng-c702,cham-soc-rang-mieng,Chăm Sóc Răng Miệng,68dd5fe58d5c1dd8f9cf5d47,2025-10-01T17:07:58.720Z,2025-10-01T17:07:58.720Z
+68dd5ff78d5c1dd8f9cf5d4d,https://www.lottemart.vn/vi-nsg/category/kem-danh-rang-c703,kem-danh-rang,Kem Đánh Răng,68dd5fee8d5c1dd8f9cf5d4c,2025-10-01T17:08:07.992Z,2025-10-01T17:08:07.992Z
+68dd5ff78d5c1dd8f9cf5d4e,https://www.lottemart.vn/vi-nsg/category/ban-chai-danh-rang-c704,ban-chai-danh-rang,Bàn Chải Đánh Răng,68dd5fee8d5c1dd8f9cf5d4c,2025-10-01T17:08:07.992Z,2025-10-01T17:08:07.992Z
+68dd5ff78d5c1dd8f9cf5d4f,https://www.lottemart.vn/vi-nsg/category/nuoc-suc-mieng-xit-thom-mieng-c705,nuoc-suc-mieng-xit-thom-mieng,"Nước Súc Miệng, Xịt Thơm Miệng",68dd5fee8d5c1dd8f9cf5d4c,2025-10-01T17:08:07.992Z,2025-10-01T17:08:07.992Z
+68dd5ff78d5c1dd8f9cf5d50,https://www.lottemart.vn/vi-nsg/category/san-pham-ve-sinh-rang-khac-c706,san-pham-ve-sinh-rang-khac,Sản Phẩm Vệ Sinh Răng Khác,68dd5fee8d5c1dd8f9cf5d4c,2025-10-01T17:08:07.992Z,2025-10-01T17:08:07.992Z
+68dd60278d5c1dd8f9cf5d51,https://www.lottemart.vn/vi-nsg/category/dau-goi-c695,dau-goi,Dầu Gội,68dd5fee8d5c1dd8f9cf5d4b,2025-10-01T17:08:55.713Z,2025-10-01T17:08:55.713Z
+68dd60278d5c1dd8f9cf5d52,https://www.lottemart.vn/vi-nsg/category/dau-xa-c696,dau-xa,Dầu Xả,68dd5fee8d5c1dd8f9cf5d4b,2025-10-01T17:08:55.713Z,2025-10-01T17:08:55.713Z
+68dd60278d5c1dd8f9cf5d53,https://www.lottemart.vn/vi-nsg/category/nhuom-toc-c697,nhuom-toc,Nhuộm Tóc,68dd5fee8d5c1dd8f9cf5d4b,2025-10-01T17:08:55.713Z,2025-10-01T17:08:55.713Z
+68dd60278d5c1dd8f9cf5d54,https://www.lottemart.vn/vi-nsg/category/tao-kieu-duong-toc-c698,tao-kieu-duong-toc,"Tạo Kiểu, Dưỡng Tóc",68dd5fee8d5c1dd8f9cf5d4b,2025-10-01T17:08:55.713Z,2025-10-01T17:08:55.713Z
+68dd60278d5c1dd8f9cf5d55,https://www.lottemart.vn/vi-nsg/category/u-toc-c699,u-toc,Ủ Tóc,68dd5fee8d5c1dd8f9cf5d4b,2025-10-01T17:08:55.713Z,2025-10-01T17:08:55.713Z
+68dd60618d5c1dd8f9cf5d56,https://www.lottemart.vn/vi-nsg/category/bang-ve-sinh-tampon-ta-nguoi-lon-c691,bang-ve-sinh-tampon-ta-nguoi-lon,"Băng Vệ Sinh, Tampon, Tã Người Lớn",68dd5fee8d5c1dd8f9cf5d4a,2025-10-01T17:09:53.624Z,2025-10-01T17:09:53.624Z
+68dd60618d5c1dd8f9cf5d57,https://www.lottemart.vn/vi-nsg/category/dung-dich-ve-sinh-c692,dung-dich-ve-sinh,Dung Dịch Vệ Sinh,68dd5fee8d5c1dd8f9cf5d4a,2025-10-01T17:09:53.625Z,2025-10-01T17:09:53.625Z
+68dd60618d5c1dd8f9cf5d58,https://www.lottemart.vn/vi-nsg/category/dao-cao-tay-long-c693,dao-cao-tay-long,"Dao Cạo, Tẩy Lông",68dd5fee8d5c1dd8f9cf5d4a,2025-10-01T17:09:53.625Z,2025-10-01T17:09:53.625Z
+68dd60a78d5c1dd8f9cf5d59,https://www.lottemart.vn/vi-nsg/category/xa-bong-cuc-c687,xa-bong-cuc,Xà Bông Cục,68dd5fee8d5c1dd8f9cf5d49,2025-10-01T17:11:03.503Z,2025-10-01T17:11:03.503Z
+68dd60a78d5c1dd8f9cf5d5a,https://www.lottemart.vn/vi-nsg/category/sua-tam-c688,sua-tam,Sữa Tắm,68dd5fee8d5c1dd8f9cf5d49,2025-10-01T17:11:03.506Z,2025-10-01T17:11:03.506Z
+68dd60a78d5c1dd8f9cf5d5b,https://www.lottemart.vn/vi-nsg/category/tay-te-bao-chet-c689,tay-te-bao-chet,Tẩy Tế Bào Chết,68dd5fee8d5c1dd8f9cf5d49,2025-10-01T17:11:03.506Z,2025-10-01T17:11:03.506Z
+68dd60ce8d5c1dd8f9cf5d5c,https://www.lottemart.vn/vi-nsg/category/khu-mui-c682,khu-mui,Khử Mùi,68dd5fee8d5c1dd8f9cf5d48,2025-10-01T17:11:42.421Z,2025-10-01T17:11:42.421Z
+68dd60ce8d5c1dd8f9cf5d5d,https://www.lottemart.vn/vi-nsg/category/lotion-duong-am-c683,lotion-duong-am,"Lotion, Dưỡng Ẩm",68dd5fee8d5c1dd8f9cf5d48,2025-10-01T17:11:42.421Z,2025-10-01T17:11:42.421Z
+68dd60ce8d5c1dd8f9cf5d5e,https://www.lottemart.vn/vi-nsg/category/nuoc-rua-tay-duong-da-tay-rua-tay-kho-c684,nuoc-rua-tay-duong-da-tay-rua-tay-kho,"Nước Rửa Tay, Dưỡng Da Tay, Rửa Tay Khô",68dd5fee8d5c1dd8f9cf5d48,2025-10-01T17:11:42.421Z,2025-10-01T17:11:42.421Z
+68dd60ce8d5c1dd8f9cf5d5f,https://www.lottemart.vn/vi-nsg/category/khau-trang-bang-ca-nhan-bong-y-te-c685,khau-trang-bang-ca-nhan-bong-y-te,"Khẩu Trang, Băng Cá Nhân, Bông Y Tế",68dd5fee8d5c1dd8f9cf5d48,2025-10-01T17:11:42.421Z,2025-10-01T17:11:42.421Z
+68dd61048d5c1dd8f9cf5d60,https://www.lottemart.vn/vi-nsg/category/lam-sach-co-the-c328,lam-sach-co-the,Làm Sạch Cơ Thể,68dd5fe58d5c1dd8f9cf5d46,2025-10-01T17:12:36.096Z,2025-10-01T17:12:36.096Z
+68dd61048d5c1dd8f9cf5d61,https://www.lottemart.vn/vi-nsg/category/cham-soc-toc-c710,cham-soc-toc,Chăm Sóc Tóc,68dd5fe58d5c1dd8f9cf5d46,2025-10-01T17:12:36.096Z,2025-10-01T17:12:36.096Z
+68dd61048d5c1dd8f9cf5d62,https://www.lottemart.vn/vi-nsg/category/suc-khoe-tinh-duc-c713,suc-khoe-tinh-duc,Sức Khỏe Tình Dục,68dd5fe58d5c1dd8f9cf5d46,2025-10-01T17:12:36.096Z,2025-10-01T17:12:36.096Z
+68dd61188d5c1dd8f9cf5d63,https://www.lottemart.vn/vi-nsg/category/dau-goi-dau-xa-c711,dau-goi-dau-xa,"Dầu Gội, Dầu Xả",68dd61048d5c1dd8f9cf5d61,2025-10-01T17:12:56.375Z,2025-10-01T17:12:56.375Z
+68dd61188d5c1dd8f9cf5d64,https://www.lottemart.vn/vi-nsg/category/tao-kieu-c712,tao-kieu,Tạo Kiểu,68dd61048d5c1dd8f9cf5d61,2025-10-01T17:12:56.375Z,2025-10-01T17:12:56.375Z
+68dd61378d5c1dd8f9cf5d65,https://www.lottemart.vn/vi-nsg/category/khu-mui-c707,khu-mui,Khử Mùi,68dd61048d5c1dd8f9cf5d60,2025-10-01T17:13:27.470Z,2025-10-01T17:13:27.470Z
+68dd61378d5c1dd8f9cf5d66,https://www.lottemart.vn/vi-nsg/category/tam-goi-c708,tam-goi,"Tắm, Gội",68dd61048d5c1dd8f9cf5d60,2025-10-01T17:13:27.471Z,2025-10-01T17:13:27.471Z
+68dd61378d5c1dd8f9cf5d67,https://www.lottemart.vn/vi-nsg/category/dao-cao-bot-cao-c709,dao-cao-bot-cao,"Dạo Cạo, Bọt Cạo",68dd61048d5c1dd8f9cf5d60,2025-10-01T17:13:27.471Z,2025-10-01T17:13:27.471Z
+68dd61758d5c1dd8f9cf5d68,https://www.lottemart.vn/vi-nsg/category/cham-soc-quan-ao-c352,cham-soc-quan-ao,Chăm Sóc Quần Áo,68dd56228d5c1dd8f9cf5c5a,2025-10-01T17:14:29.520Z,2025-10-01T17:14:29.520Z
+68dd61758d5c1dd8f9cf5d69,https://www.lottemart.vn/vi-nsg/category/cham-soc-nha-cua-c356,cham-soc-nha-cua,Chăm Sóc Nhà Cửa,68dd56228d5c1dd8f9cf5c5a,2025-10-01T17:14:29.520Z,2025-10-01T17:14:29.520Z
+68dd617f8d5c1dd8f9cf5d6a,https://www.lottemart.vn/vi-nsg/category/xit-phong-diet-con-trung-c637,xit-phong-diet-con-trung,"Xịt Phòng, Diệt Côn Trùng",68dd61758d5c1dd8f9cf5d69,2025-10-01T17:14:39.096Z,2025-10-01T17:14:39.096Z
+68dd617f8d5c1dd8f9cf5d6b,https://www.lottemart.vn/vi-nsg/category/ve-sinh-tay-rua-c641,ve-sinh-tay-rua,"Vệ Sinh, Tẩy Rửa",68dd61758d5c1dd8f9cf5d69,2025-10-01T17:14:39.096Z,2025-10-01T17:14:39.096Z
+68dd617f8d5c1dd8f9cf5d6c,https://www.lottemart.vn/vi-nsg/category/khan-giay-c634,khan-giay,Khăn Giấy,68dd61758d5c1dd8f9cf5d69,2025-10-01T17:14:39.096Z,2025-10-01T17:14:39.096Z
+68dd617f8d5c1dd8f9cf5d6d,https://www.lottemart.vn/vi-nsg/category/khan-uot-c635,khan-uot,Khăn Ướt,68dd61758d5c1dd8f9cf5d69,2025-10-01T17:14:39.096Z,2025-10-01T17:14:39.096Z
+68dd617f8d5c1dd8f9cf5d6e,https://www.lottemart.vn/vi-nsg/category/giay-ve-sinh-c636,giay-ve-sinh,Giấy Vệ Sinh,68dd61758d5c1dd8f9cf5d69,2025-10-01T17:14:39.096Z,2025-10-01T17:14:39.096Z
+68dd61ae8d5c1dd8f9cf5d6f,https://www.lottemart.vn/vi-nsg/category/nuoc-rua-chen-c642,nuoc-rua-chen,Nước Rửa Chén,68dd617f8d5c1dd8f9cf5d6b,2025-10-01T17:15:26.519Z,2025-10-01T17:15:26.519Z
+68dd61ae8d5c1dd8f9cf5d70,https://www.lottemart.vn/vi-nsg/category/nuoc-lau-san-c643,nuoc-lau-san,Nước Lau Sàn,68dd617f8d5c1dd8f9cf5d6b,2025-10-01T17:15:26.519Z,2025-10-01T17:15:26.519Z
+68dd61ae8d5c1dd8f9cf5d71,https://www.lottemart.vn/vi-nsg/category/xit-kinh-lau-bep-c644,xit-kinh-lau-bep,"Xịt Kính, Lau Bếp",68dd617f8d5c1dd8f9cf5d6b,2025-10-01T17:15:26.519Z,2025-10-01T17:15:26.519Z
+68dd61ae8d5c1dd8f9cf5d72,https://www.lottemart.vn/vi-nsg/category/tay-rua-nha-tam-c645,tay-rua-nha-tam,Tẩy Rửa Nhà Tắm,68dd617f8d5c1dd8f9cf5d6b,2025-10-01T17:15:26.519Z,2025-10-01T17:15:26.519Z
+68dd61ae8d5c1dd8f9cf5d73,https://www.lottemart.vn/vi-nsg/category/khac-c646,khac,"Vệ Sinh, Tẩy Rửa Khác",68dd617f8d5c1dd8f9cf5d6b,2025-10-01T17:15:26.519Z,2025-10-01T17:15:26.519Z
+68dd61f48d5c1dd8f9cf5d74,https://www.lottemart.vn/vi-nsg/category/khu-mui-c638,khu-mui,Khử Mùi,68dd617f8d5c1dd8f9cf5d6a,2025-10-01T17:16:36.184Z,2025-10-01T17:16:36.184Z
+68dd61f48d5c1dd8f9cf5d75,https://www.lottemart.vn/vi-nsg/category/diet-con-trung-c639,diet-con-trung,Diệt Côn Trùng,68dd617f8d5c1dd8f9cf5d6a,2025-10-01T17:16:36.185Z,2025-10-01T17:16:36.185Z
+68dd61f48d5c1dd8f9cf5d76,https://www.lottemart.vn/vi-nsg/category/sap-thom-xit-phong-c640,sap-thom-xit-phong,"Sáp Thơm, Xịt Phòng",68dd617f8d5c1dd8f9cf5d6a,2025-10-01T17:16:36.185Z,2025-10-01T17:16:36.185Z
+68dd621b8d5c1dd8f9cf5d77,https://www.lottemart.vn/vi-nsg/category/bot-giat-nuoc-giat-vien-giat-c353,bot-giat-nuoc-giat-vien-giat,"Bột Giặt, Nước Giặt, Viên Giặt",68dd61758d5c1dd8f9cf5d68,2025-10-01T17:17:15.192Z,2025-10-01T17:17:15.192Z
+68dd621b8d5c1dd8f9cf5d78,https://www.lottemart.vn/vi-nsg/category/xa-vai-xit-vai-nuoc-tay-c354,xa-vai-xit-vai-nuoc-tay,"Xả Vải, Xịt Vải, Nước Tẩy",68dd61758d5c1dd8f9cf5d68,2025-10-01T17:17:15.192Z,2025-10-01T17:17:15.192Z
+68ddce587855a20e2f5ddba2,https://www.lottemart.vn/vi-nsg/category/cham-soc-quan-ao-c352,cham-soc-quan-ao,Chăm Sóc Quần Áo,68dd56228d5c1dd8f9cf5c5a,2025-10-02T00:59:04.643Z,2025-10-02T00:59:04.643Z
+68ddce587855a20e2f5ddba3,https://www.lottemart.vn/vi-nsg/category/cham-soc-nha-cua-c356,cham-soc-nha-cua,Chăm Sóc Nhà Cửa,68dd56228d5c1dd8f9cf5c5a,2025-10-02T00:59:04.644Z,2025-10-02T00:59:04.644Z
+68ddce617855a20e2f5ddba4,https://www.lottemart.vn/vi-nsg/category/xit-phong-diet-con-trung-c637,xit-phong-diet-con-trung,"Xịt Phòng, Diệt Côn Trùng",68ddce587855a20e2f5ddba3,2025-10-02T00:59:13.805Z,2025-10-02T00:59:13.805Z
+68ddce617855a20e2f5ddba5,https://www.lottemart.vn/vi-nsg/category/ve-sinh-tay-rua-c641,ve-sinh-tay-rua,"Vệ Sinh, Tẩy Rửa",68ddce587855a20e2f5ddba3,2025-10-02T00:59:13.805Z,2025-10-02T00:59:13.805Z
+68ddce617855a20e2f5ddba6,https://www.lottemart.vn/vi-nsg/category/khan-giay-c634,khan-giay,Khăn Giấy,68ddce587855a20e2f5ddba3,2025-10-02T00:59:13.805Z,2025-10-02T00:59:13.805Z
+68ddce617855a20e2f5ddba7,https://www.lottemart.vn/vi-nsg/category/khan-uot-c635,khan-uot,Khăn Ướt,68ddce587855a20e2f5ddba3,2025-10-02T00:59:13.805Z,2025-10-02T00:59:13.805Z
+68ddce617855a20e2f5ddba8,https://www.lottemart.vn/vi-nsg/category/giay-ve-sinh-c636,giay-ve-sinh,Giấy Vệ Sinh,68ddce587855a20e2f5ddba3,2025-10-02T00:59:13.805Z,2025-10-02T00:59:13.805Z
+68ddce917855a20e2f5ddba9,https://www.lottemart.vn/vi-nsg/category/nuoc-rua-chen-c642,nuoc-rua-chen,Nước Rửa Chén,68ddce617855a20e2f5ddba5,2025-10-02T01:00:01.153Z,2025-10-02T01:00:01.153Z
+68ddce917855a20e2f5ddbaa,https://www.lottemart.vn/vi-nsg/category/nuoc-lau-san-c643,nuoc-lau-san,Nước Lau Sàn,68ddce617855a20e2f5ddba5,2025-10-02T01:00:01.153Z,2025-10-02T01:00:01.153Z
+68ddce917855a20e2f5ddbab,https://www.lottemart.vn/vi-nsg/category/xit-kinh-lau-bep-c644,xit-kinh-lau-bep,"Xịt Kính, Lau Bếp",68ddce617855a20e2f5ddba5,2025-10-02T01:00:01.153Z,2025-10-02T01:00:01.153Z
+68ddce917855a20e2f5ddbac,https://www.lottemart.vn/vi-nsg/category/tay-rua-nha-tam-c645,tay-rua-nha-tam,Tẩy Rửa Nhà Tắm,68ddce617855a20e2f5ddba5,2025-10-02T01:00:01.153Z,2025-10-02T01:00:01.153Z
+68ddce917855a20e2f5ddbad,https://www.lottemart.vn/vi-nsg/category/khac-c646,khac,"Vệ Sinh, Tẩy Rửa Khác",68ddce617855a20e2f5ddba5,2025-10-02T01:00:01.153Z,2025-10-02T01:00:01.153Z
+68ddcec87855a20e2f5ddbae,https://www.lottemart.vn/vi-nsg/category/khu-mui-c638,khu-mui,Khử Mùi,68ddce617855a20e2f5ddba4,2025-10-02T01:00:56.758Z,2025-10-02T01:00:56.758Z
+68ddcec87855a20e2f5ddbaf,https://www.lottemart.vn/vi-nsg/category/diet-con-trung-c639,diet-con-trung,Diệt Côn Trùng,68ddce617855a20e2f5ddba4,2025-10-02T01:00:56.758Z,2025-10-02T01:00:56.758Z
+68ddcec87855a20e2f5ddbb0,https://www.lottemart.vn/vi-nsg/category/sap-thom-xit-phong-c640,sap-thom-xit-phong,"Sáp Thơm, Xịt Phòng",68ddce617855a20e2f5ddba4,2025-10-02T01:00:56.758Z,2025-10-02T01:00:56.758Z
+68ddcef57855a20e2f5ddbb1,https://www.lottemart.vn/vi-nsg/category/bot-giat-nuoc-giat-vien-giat-c353,bot-giat-nuoc-giat-vien-giat,"Bột Giặt, Nước Giặt, Viên Giặt",68ddce587855a20e2f5ddba2,2025-10-02T01:01:41.154Z,2025-10-02T01:01:41.154Z
+68ddcef57855a20e2f5ddbb2,https://www.lottemart.vn/vi-nsg/category/xa-vai-xit-vai-nuoc-tay-c354,xa-vai-xit-vai-nuoc-tay,"Xả Vải, Xịt Vải, Nước Tẩy",68ddce587855a20e2f5ddba2,2025-10-02T01:01:41.154Z,2025-10-02T01:01:41.154Z
+68ddcefe7855a20e2f5ddbb3,https://www.lottemart.vn/vi-nsg/category/xa-vai-xit-vai-c632,xa-vai-xit-vai,"Xả Vải, Xịt Vải",68ddcef57855a20e2f5ddbb2,2025-10-02T01:01:50.220Z,2025-10-02T01:01:50.220Z
+68ddcefe7855a20e2f5ddbb4,https://www.lottemart.vn/vi-nsg/category/nuoc-tay-ve-sinh-long-giat-c633,nuoc-tay-ve-sinh-long-giat,"Nước Tẩy, Vệ Sinh Lồng Giặt",68ddcef57855a20e2f5ddbb2,2025-10-02T01:01:50.220Z,2025-10-02T01:01:50.220Z
+68ddcf197855a20e2f5ddbb5,https://www.lottemart.vn/vi-nsg/category/bot-giat-c629,bot-giat,Bột Giặt,68ddcef57855a20e2f5ddbb1,2025-10-02T01:02:17.016Z,2025-10-02T01:02:17.016Z
+68ddcf197855a20e2f5ddbb6,https://www.lottemart.vn/vi-nsg/category/nuoc-giat-c630,nuoc-giat,Nước Giặt,68ddcef57855a20e2f5ddbb1,2025-10-02T01:02:17.016Z,2025-10-02T01:02:17.016Z
+68ddcf197855a20e2f5ddbb7,https://www.lottemart.vn/vi-nsg/category/vien-giat-c631,vien-giat,Viên Giặt,68ddcef57855a20e2f5ddbb1,2025-10-02T01:02:17.016Z,2025-10-02T01:02:17.016Z
+68ddcf457855a20e2f5ddbb8,https://www.lottemart.vn/vi-nsg/category/cong-cu-thiet-bi-dien-c421,cong-cu-thiet-bi-dien,Công Cụ & Thiết Bị Điện,68dd56228d5c1dd8f9cf5c5b,2025-10-02T01:03:01.574Z,2025-10-02T01:03:01.574Z
+68ddcf457855a20e2f5ddbb9,https://www.lottemart.vn/vi-nsg/category/thiet-bi-nha-bep-c423,thiet-bi-nha-bep,Thiết Bị Nhà Bếp,68dd56228d5c1dd8f9cf5c5b,2025-10-02T01:03:01.575Z,2025-10-02T01:03:01.575Z
+68ddcf457855a20e2f5ddbba,https://www.lottemart.vn/vi-nsg/category/thiet-bi-gia-dinh-c422,thiet-bi-gia-dinh,Thiết Bị Gia Đình,68dd56228d5c1dd8f9cf5c5b,2025-10-02T01:03:01.575Z,2025-10-02T01:03:01.575Z
+68ddcf577855a20e2f5ddbbb,https://www.lottemart.vn/vi-nsg/category/bep-dien-c424,bep-dien,Bếp Điện,68ddcf457855a20e2f5ddbb9,2025-10-02T01:03:19.542Z,2025-10-02T01:03:19.542Z
+68ddcf577855a20e2f5ddbbc,https://www.lottemart.vn/vi-nsg/category/noi-com-dien-c425,noi-com-dien,Nồi Cơm Điện,68ddcf457855a20e2f5ddbb9,2025-10-02T01:03:19.542Z,2025-10-02T01:03:19.542Z
+68ddcf577855a20e2f5ddbbd,https://www.lottemart.vn/vi-nsg/category/thiet-bi-bep-khac-c426,thiet-bi-bep-khac,Thiết Bị Bếp Khác,68ddcf457855a20e2f5ddbb9,2025-10-02T01:03:19.542Z,2025-10-02T01:03:19.542Z
+68ddcf7a7855a20e2f5ddbbe,https://www.lottemart.vn/vi-nsg/category/den-o-cam-dien-c647,den-o-cam-dien,"Đèn, Ổ Cắm Điện",68ddcf457855a20e2f5ddbb8,2025-10-02T01:03:54.770Z,2025-10-02T01:03:54.770Z
+68ddcf837855a20e2f5ddbbf,https://www.lottemart.vn/vi-nsg/category/den-thiet-bi-chieu-sang-c648,den-thiet-bi-chieu-sang,"Đèn, Thiết Bị Chiếu Sáng",68ddcf7a7855a20e2f5ddbbe,2025-10-02T01:04:03.689Z,2025-10-02T01:04:03.689Z
+68ddcf837855a20e2f5ddbc0,https://www.lottemart.vn/vi-nsg/category/o-cam-phich-cam-dien-c649,o-cam-phich-cam-dien,"Ổ Cắm, Phích Cắm Điện",68ddcf7a7855a20e2f5ddbbe,2025-10-02T01:04:03.689Z,2025-10-02T01:04:03.689Z
+68ddcf837855a20e2f5ddbc1,https://www.lottemart.vn/vi-nsg/category/pin-c650,pin,Pin,68ddcf7a7855a20e2f5ddbbe,2025-10-02T01:04:03.689Z,2025-10-02T01:04:03.689Z
+68ddcfa87855a20e2f5ddbc2,https://www.lottemart.vn/vi-nsg/category/dung-cu-bep-phong-an-c370,dung-cu-bep-phong-an,"Dụng Cụ Bếp, Phòng Ăn",68dd56228d5c1dd8f9cf5c5c,2025-10-02T01:04:40.550Z,2025-10-02T01:04:40.550Z
+68ddcfa87855a20e2f5ddbc3,https://www.lottemart.vn/vi-nsg/category/dung-cu-phong-tam-c380,dung-cu-phong-tam,Đồ Dùng Phòng Tắm,68dd56228d5c1dd8f9cf5c5c,2025-10-02T01:04:40.550Z,2025-10-02T01:04:40.550Z
+68ddcfa87855a20e2f5ddbc4,https://www.lottemart.vn/vi-nsg/category/do-dung-phong-ngu-c381,do-dung-phong-ngu,Đồ Dùng Phòng Ngủ,68dd56228d5c1dd8f9cf5c5c,2025-10-02T01:04:40.550Z,2025-10-02T01:04:40.550Z
+68ddcfa87855a20e2f5ddbc5,https://www.lottemart.vn/vi-nsg/category/ngoai-troi-san-vuon-c387,ngoai-troi-san-vuon,"Ngoài Trời, Sân Vườn",68dd56228d5c1dd8f9cf5c5c,2025-10-02T01:04:40.550Z,2025-10-02T01:04:40.550Z
+68ddcfa87855a20e2f5ddbc6,https://www.lottemart.vn/vi-nsg/category/noi-that-c394,noi-that,Nội Thất,68dd56228d5c1dd8f9cf5c5c,2025-10-02T01:04:40.551Z,2025-10-02T01:04:40.551Z
+68ddcfa87855a20e2f5ddbc7,https://www.lottemart.vn/vi-nsg/category/sua-chua-nha-cua-c400,sua-chua-nha-cua,Sửa Chữa Nhà Cửa,68dd56228d5c1dd8f9cf5c5c,2025-10-02T01:04:40.551Z,2025-10-02T01:04:40.551Z
+68ddcfa87855a20e2f5ddbc8,https://www.lottemart.vn/vi-nsg/category/trang-tri-nha-cua-c405,trang-tri-nha-cua,Trang Trí Nhà Cửa,68dd56228d5c1dd8f9cf5c5c,2025-10-02T01:04:40.551Z,2025-10-02T01:04:40.551Z
+68ddcfa87855a20e2f5ddbc9,https://www.lottemart.vn/vi-nsg/category/van-phong-pham-c413,van-phong-pham,Văn Phòng Phẩm,68dd56228d5c1dd8f9cf5c5c,2025-10-02T01:04:40.551Z,2025-10-02T01:04:40.551Z
+68ddcfb17855a20e2f5ddbca,https://www.lottemart.vn/vi-nsg/category/dung-cu-van-phong-c414,dung-cu-van-phong,Dụng Cụ Văn Phòng,68ddcfa87855a20e2f5ddbc9,2025-10-02T01:04:49.801Z,2025-10-02T01:04:49.801Z
+68ddcfb17855a20e2f5ddbcb,https://www.lottemart.vn/vi-nsg/category/dung-cu-hoc-sinh-c415,dung-cu-hoc-sinh,Dụng Cụ Học Sinh,68ddcfa87855a20e2f5ddbc9,2025-10-02T01:04:49.801Z,2025-10-02T01:04:49.801Z
+68ddcfbb7855a20e2f5ddbcc,https://www.lottemart.vn/vi-nsg/category/but-viet-tay-thuoc-c667,but-viet-tay-thuoc,"Bút, Viết, Tẩy, Thước",68ddcfb17855a20e2f5ddbcb,2025-10-02T01:04:59.230Z,2025-10-02T01:04:59.230Z
+68ddcfbb7855a20e2f5ddbcd,https://www.lottemart.vn/vi-nsg/category/mau-nuoc-mau-sap-c668,mau-nuoc-mau-sap,"Màu Nước, Màu Sáp",68ddcfb17855a20e2f5ddbcb,2025-10-02T01:04:59.230Z,2025-10-02T01:04:59.230Z
+68ddcfbb7855a20e2f5ddbce,https://www.lottemart.vn/vi-nsg/category/sach-c669,sach,Sách,68ddcfb17855a20e2f5ddbcb,2025-10-02T01:04:59.230Z,2025-10-02T01:04:59.230Z
+68ddcfbb7855a20e2f5ddbcf,https://www.lottemart.vn/vi-nsg/category/vo-san-pham-ve-giay-c670,vo-san-pham-ve-giay,"Vở, Sản Phẩm Về Giấy",68ddcfb17855a20e2f5ddbcb,2025-10-02T01:04:59.230Z,2025-10-02T01:04:59.230Z
+68ddcfeb7855a20e2f5ddbd0,https://www.lottemart.vn/vi-nsg/category/bia-ho-so-c671,bia-ho-so,Bìa Hồ Sơ,68ddcfb17855a20e2f5ddbca,2025-10-02T01:05:47.790Z,2025-10-02T01:05:47.790Z
+68ddcfeb7855a20e2f5ddbd1,https://www.lottemart.vn/vi-nsg/category/bam-kim-phu-kien-c672,bam-kim-phu-kien,Bấm Kim & Phụ Kiện,68ddcfb17855a20e2f5ddbca,2025-10-02T01:05:47.790Z,2025-10-02T01:05:47.790Z
+68ddcfeb7855a20e2f5ddbd2,https://www.lottemart.vn/vi-nsg/category/san-pham-da-mat-khac-c673,san-pham-da-mat-khac,Dụng Cụ Văn Phòng Khác,68ddcfb17855a20e2f5ddbca,2025-10-02T01:05:47.790Z,2025-10-02T01:05:47.790Z
+68ddd0117855a20e2f5ddbd3,https://www.lottemart.vn/vi-nsg/category/tham-c408,tham,Thảm,68ddcfa87855a20e2f5ddbc8,2025-10-02T01:06:25.180Z,2025-10-02T01:06:25.180Z
+68ddd0117855a20e2f5ddbd4,https://www.lottemart.vn/vi-nsg/category/lo-hoa-gia-c410,lo-hoa-gia,"Lọ, Hoa Giả",68ddcfa87855a20e2f5ddbc8,2025-10-02T01:06:25.180Z,2025-10-02T01:06:25.180Z
+68ddd0117855a20e2f5ddbd5,https://www.lottemart.vn/vi-nsg/category/cay-hoa-tuoi-c411,cay-hoa-tuoi,"Cây, Hoa Tươi",68ddcfa87855a20e2f5ddbc8,2025-10-02T01:06:25.180Z,2025-10-02T01:06:25.180Z
+68ddd0117855a20e2f5ddbd6,https://www.lottemart.vn/vi-nsg/category/dung-cu-trang-tri-nha-khac-c412,dung-cu-trang-tri-nha-khac,Trang Trí Nhà Cửa Khác,68ddcfa87855a20e2f5ddbc8,2025-10-02T01:06:25.180Z,2025-10-02T01:06:25.180Z
+68ddd03e7855a20e2f5ddbd7,https://www.lottemart.vn/vi-nsg/category/thiet-bi-do-luong-c401,thiet-bi-do-luong,Thiết Bị Đo Lường,68ddcfa87855a20e2f5ddbc7,2025-10-02T01:07:10.234Z,2025-10-02T01:07:10.234Z
+68ddd03e7855a20e2f5ddbd8,https://www.lottemart.vn/vi-nsg/category/dung-cu-bo-dung-cu-sua-chua-c404,dung-cu-bo-dung-cu-sua-chua,"Dụng Cụ, Bộ Dụng Cụ Sửa Chữa",68ddcfa87855a20e2f5ddbc7,2025-10-02T01:07:10.234Z,2025-10-02T01:07:10.234Z
+68ddd0587855a20e2f5ddbd9,https://www.lottemart.vn/vi-nsg/category/tu-ke-treo-quan-ao-c395,tu-ke-treo-quan-ao,"Tủ, Kệ Treo Quần Áo",68ddcfa87855a20e2f5ddbc6,2025-10-02T01:07:36.686Z,2025-10-02T01:07:36.686Z
+68ddd0587855a20e2f5ddbda,https://www.lottemart.vn/vi-nsg/category/tu-ke-giay-c396,tu-ke-giay,"Tủ, Kệ Giày",68ddcfa87855a20e2f5ddbc6,2025-10-02T01:07:36.686Z,2025-10-02T01:07:36.686Z
+68ddd0587855a20e2f5ddbdb,https://www.lottemart.vn/vi-nsg/category/guong-c397,guong,Gương,68ddcfa87855a20e2f5ddbc6,2025-10-02T01:07:36.686Z,2025-10-02T01:07:36.686Z
+68ddd0587855a20e2f5ddbdc,https://www.lottemart.vn/vi-nsg/category/ban-hoc-lam-viec-c398,ban-hoc-lam-viec,"Bàn Học, Làm Việc",68ddcfa87855a20e2f5ddbc6,2025-10-02T01:07:36.686Z,2025-10-02T01:07:36.686Z
+68ddd0587855a20e2f5ddbdd,https://www.lottemart.vn/vi-nsg/category/do-noi-that-khac-c399,do-noi-that-khac,Đồ Nội Thất Khác,68ddcfa87855a20e2f5ddbc6,2025-10-02T01:07:36.686Z,2025-10-02T01:07:36.686Z
+68ddd08f7855a20e2f5ddbde,https://www.lottemart.vn/vi-nsg/category/dung-cu-lam-vuon-c388,dung-cu-lam-vuon,Dụng Cụ Làm Vườn,68ddcfa87855a20e2f5ddbc5,2025-10-02T01:08:31.028Z,2025-10-02T01:08:31.028Z
+68ddd08f7855a20e2f5ddbdf,https://www.lottemart.vn/vi-nsg/category/hat-giong-c389,hat-giong,Hạt Giống,68ddcfa87855a20e2f5ddbc5,2025-10-02T01:08:31.028Z,2025-10-02T01:08:31.028Z
+68ddd08f7855a20e2f5ddbe0,https://www.lottemart.vn/vi-nsg/category/dat-duong-cay-hoa-c390,dat-duong-cay-hoa,"Đất, Dưỡng Cây, Hoa",68ddcfa87855a20e2f5ddbc5,2025-10-02T01:08:31.028Z,2025-10-02T01:08:31.028Z
+68ddd08f7855a20e2f5ddbe1,https://www.lottemart.vn/vi-nsg/category/xit-rua-va-phu-kien-c391,xit-rua-va-phu-kien,Xịt Rửa Và Phụ Kiện,68ddcfa87855a20e2f5ddbc5,2025-10-02T01:08:31.028Z,2025-10-02T01:08:31.028Z
+68ddd0c37855a20e2f5ddbe2,https://www.lottemart.vn/vi-nsg/category/bo-ga-ra-drap-c382,bo-ga-ra-drap,"Bộ Ga, Ra, Drap",68ddcfa87855a20e2f5ddbc4,2025-10-02T01:09:23.045Z,2025-10-02T01:09:23.045Z
+68ddd0c37855a20e2f5ddbe3,https://www.lottemart.vn/vi-nsg/category/chan-men-c383,chan-men,"Chăn, Mền",68ddcfa87855a20e2f5ddbc4,2025-10-02T01:09:23.045Z,2025-10-02T01:09:23.045Z
+68ddd0c37855a20e2f5ddbe4,https://www.lottemart.vn/vi-nsg/category/goi-ruot-goi-vo-goi-c384,goi-ruot-goi-vo-goi,"Gối, Ruột Gối, Vỏ Gối",68ddcfa87855a20e2f5ddbc4,2025-10-02T01:09:23.045Z,2025-10-02T01:09:23.045Z
+68ddd0c37855a20e2f5ddbe5,https://www.lottemart.vn/vi-nsg/category/nem-tam-lot-nem-c385,nem-tam-lot-nem,"Nệm, Tấm Lót Nệm",68ddcfa87855a20e2f5ddbc4,2025-10-02T01:09:23.045Z,2025-10-02T01:09:23.045Z
+68ddd0ff7855a20e2f5ddbe6,https://www.lottemart.vn/vi-nsg/category/khan-tam-bong-tam-c664,khan-tam-bong-tam,"Khăn Tắm, Bông Tắm",68ddcfa87855a20e2f5ddbc3,2025-10-02T01:10:23.729Z,2025-10-02T01:10:23.729Z
+68ddd0ff7855a20e2f5ddbe7,https://www.lottemart.vn/vi-nsg/category/moc-treo-thung-dung-do-c665,moc-treo-thung-dung-do,"Móc Treo, Thùng Đựng Đồ",68ddcfa87855a20e2f5ddbc3,2025-10-02T01:10:23.729Z,2025-10-02T01:10:23.729Z
+68ddd0ff7855a20e2f5ddbe8,https://www.lottemart.vn/vi-nsg/category/dung-cu-phong-tam-khac-c666,dung-cu-phong-tam-khac,Đồ Dùng Phòng Tắm Khác,68ddcfa87855a20e2f5ddbc3,2025-10-02T01:10:23.729Z,2025-10-02T01:10:23.729Z
+68ddd1237855a20e2f5ddbe9,https://www.lottemart.vn/vi-nsg/category/noi-chao-c372,noi-chao,"Nồi, Chảo",68ddcfa87855a20e2f5ddbc2,2025-10-02T01:10:59.250Z,2025-10-02T01:10:59.250Z
+68ddd1237855a20e2f5ddbea,https://www.lottemart.vn/vi-nsg/category/to-chen-dia-muong-dua-c373,to-chen-dia-muong-dua,"Tô, Chén, Đĩa, Muỗng, Đũa",68ddcfa87855a20e2f5ddbc2,2025-10-02T01:10:59.250Z,2025-10-02T01:10:59.250Z
+68ddd1237855a20e2f5ddbeb,https://www.lottemart.vn/vi-nsg/category/binh-nuoc-ly-nuoc-c374,binh-nuoc-ly-nuoc,"Bình Nước, Ly Nước",68ddcfa87855a20e2f5ddbc2,2025-10-02T01:10:59.250Z,2025-10-02T01:10:59.250Z
+68ddd1237855a20e2f5ddbec,https://www.lottemart.vn/vi-nsg/category/dao-thot-keo-lam-bep-c375,dao-thot-keo-lam-bep,"Dao, Thớt, Kéo Làm Bếp",68ddcfa87855a20e2f5ddbc2,2025-10-02T01:10:59.250Z,2025-10-02T01:10:59.250Z
+68ddd1237855a20e2f5ddbed,https://www.lottemart.vn/vi-nsg/category/hop-thuc-pham-c376,hop-thuc-pham,Hộp Thực Phẩm,68ddcfa87855a20e2f5ddbc2,2025-10-02T01:10:59.250Z,2025-10-02T01:10:59.250Z
+68ddd1237855a20e2f5ddbee,https://www.lottemart.vn/vi-nsg/category/dung-cu-lam-banh-c377,dung-cu-lam-banh,Dụng Cụ Làm Bánh,68ddcfa87855a20e2f5ddbc2,2025-10-02T01:10:59.250Z,2025-10-02T01:10:59.250Z
+68ddd1237855a20e2f5ddbef,https://www.lottemart.vn/vi-nsg/category/tui-rac-sot-rac-c378,tui-rac-sot-rac,"Túi Rác, Sọt Rác",68ddcfa87855a20e2f5ddbc2,2025-10-02T01:10:59.250Z,2025-10-02T01:10:59.250Z
+68ddd1237855a20e2f5ddbf0,https://www.lottemart.vn/vi-nsg/category/dung-cu-bep-khac-c379,dung-cu-bep-khac,Dụng Cụ Bếp Khác,68ddcfa87855a20e2f5ddbc2,2025-10-02T01:10:59.250Z,2025-10-02T01:10:59.250Z
+68ddd1757855a20e2f5ddbf1,https://www.lottemart.vn/vi-nsg/category/thuc-an-thu-cung-c436,thuc-an-thu-cung,Thức Ăn Thú Cưng,68dd56228d5c1dd8f9cf5c5d,2025-10-02T01:12:21.816Z,2025-10-02T01:12:21.816Z
+68ddd1757855a20e2f5ddbf2,https://www.lottemart.vn/vi-nsg/category/nha-ve-sinh-cat-ve-sinh-c434,nha-ve-sinh-cat-ve-sinh,"Nhà Vệ Sinh, Cát Vệ Sinh",68dd56228d5c1dd8f9cf5c5d,2025-10-02T01:12:21.816Z,2025-10-02T01:12:21.816Z
+68ddd1757855a20e2f5ddbf3,https://www.lottemart.vn/vi-nsg/category/ve-sinh-tam-goi-c435,ve-sinh-tam-goi,"Vệ Sinh, Tắm Gội",68dd56228d5c1dd8f9cf5c5d,2025-10-02T01:12:21.816Z,2025-10-02T01:12:21.816Z
+68ddd1757855a20e2f5ddbf4,https://www.lottemart.vn/vi-nsg/category/vitamin-dinh-duong-c437,vitamin-dinh-duong,"Vitamin, Dinh Dưỡng",68dd56228d5c1dd8f9cf5c5d,2025-10-02T01:12:21.816Z,2025-10-02T01:12:21.816Z
+68ddd1757855a20e2f5ddbf5,https://www.lottemart.vn/vi-nsg/category/san-pham-thu-cung-khac-c438,san-pham-thu-cung-khac,Sản Phẩm Thú Cưng Khác,68dd56228d5c1dd8f9cf5c5d,2025-10-02T01:12:21.816Z,2025-10-02T01:12:21.816Z
+68ddd1a17855a20e2f5ddbf6,https://www.lottemart.vn/vi-nsg/category/thuc-an-cho-cho-c714,thuc-an-cho-cho,Thức Ăn Cho Chó,68ddd1757855a20e2f5ddbf1,2025-10-02T01:13:05.748Z,2025-10-02T01:13:05.748Z
+68ddd1a17855a20e2f5ddbf7,https://www.lottemart.vn/vi-nsg/category/thuc-an-cho-meo-c715,thuc-an-cho-meo,Thức Ăn Cho Mèo,68ddd1757855a20e2f5ddbf1,2025-10-02T01:13:05.748Z,2025-10-02T01:13:05.748Z
+68ddd1c37855a20e2f5ddbf8,https://www.lottemart.vn/vi-nsg/category/thoi-trang-nu-c441,thoi-trang-nu,Thời Trang Nữ,68dd56228d5c1dd8f9cf5c5e,2025-10-02T01:13:39.955Z,2025-10-02T01:13:39.955Z
+68ddd1c37855a20e2f5ddbf9,https://www.lottemart.vn/vi-nsg/category/thoi-trang-nam-c451,thoi-trang-nam,Thời Trang Nam,68dd56228d5c1dd8f9cf5c5e,2025-10-02T01:13:39.955Z,2025-10-02T01:13:39.955Z
+68ddd1c37855a20e2f5ddbfa,https://www.lottemart.vn/vi-nsg/category/thoi-trang-tre-em-c460,thoi-trang-tre-em,Thời Trang Trẻ Em,68dd56228d5c1dd8f9cf5c5e,2025-10-02T01:13:39.955Z,2025-10-02T01:13:39.955Z
+68ddd1cc7855a20e2f5ddbfb,https://www.lottemart.vn/vi-nsg/category/ao-quan-c461,ao-quan,Áo,68ddd1c37855a20e2f5ddbfa,2025-10-02T01:13:48.830Z,2025-10-02T01:13:48.830Z
+68ddd1cc7855a20e2f5ddbfc,https://www.lottemart.vn/vi-nsg/category/giay-dep-c464,giay-dep,"Giày, Dép",68ddd1c37855a20e2f5ddbfa,2025-10-02T01:13:48.830Z,2025-10-02T01:13:48.830Z
+68ddd1cc7855a20e2f5ddbfd,https://www.lottemart.vn/vi-nsg/category/balo-cap-c465,balo-cap,"Balo, Cặp",68ddd1c37855a20e2f5ddbfa,2025-10-02T01:13:48.830Z,2025-10-02T01:13:48.830Z
+68ddd1cc7855a20e2f5ddbfe,https://www.lottemart.vn/vi-nsg/category/mu-non-c466,mu-non,"Mũ, Nón",68ddd1c37855a20e2f5ddbfa,2025-10-02T01:13:48.830Z,2025-10-02T01:13:48.830Z
+68ddd2037855a20e2f5ddbff,https://www.lottemart.vn/vi-nsg/category/ao-thun-so-mi-c452,ao-thun-so-mi,"Áo Thun, Sơ Mi",68ddd1c37855a20e2f5ddbf9,2025-10-02T01:14:43.109Z,2025-10-02T01:14:43.109Z
+68ddd2037855a20e2f5ddc00,https://www.lottemart.vn/vi-nsg/category/trang-phuc-the-thao-c453,trang-phuc-the-thao,Trang Phục Thể Thao,68ddd1c37855a20e2f5ddbf9,2025-10-02T01:14:43.109Z,2025-10-02T01:14:43.109Z
+68ddd2037855a20e2f5ddc01,https://www.lottemart.vn/vi-nsg/category/do-lot-c455,do-lot,Đồ Lót,68ddd1c37855a20e2f5ddbf9,2025-10-02T01:14:43.109Z,2025-10-02T01:14:43.109Z
+68ddd2037855a20e2f5ddc02,https://www.lottemart.vn/vi-nsg/category/shoes-c456,shoes,"Giày, Dép",68ddd1c37855a20e2f5ddbf9,2025-10-02T01:14:43.109Z,2025-10-02T01:14:43.109Z
+68ddd2037855a20e2f5ddc03,https://www.lottemart.vn/vi-nsg/category/vali-tui-xach-balo-c457,vali-tui-xach-balo,"Vali, Túi Xách, Balo",68ddd1c37855a20e2f5ddbf9,2025-10-02T01:14:43.109Z,2025-10-02T01:14:43.109Z
+68ddd2037855a20e2f5ddc04,https://www.lottemart.vn/vi-nsg/category/hats-c458,hats,"Mũ, Nón",68ddd1c37855a20e2f5ddbf9,2025-10-02T01:14:43.109Z,2025-10-02T01:14:43.109Z
+68ddd2037855a20e2f5ddc05,https://www.lottemart.vn/vi-nsg/category/vo-c459,vo,Vớ,68ddd1c37855a20e2f5ddbf9,2025-10-02T01:14:43.109Z,2025-10-02T01:14:43.109Z
+68ddd2037855a20e2f5ddc06,https://www.lottemart.vn/vi-nsg/category/quan-nam-c613,quan-nam,Quần Nam,68ddd1c37855a20e2f5ddbf9,2025-10-02T01:14:43.109Z,2025-10-02T01:14:43.109Z
+68ddd2037855a20e2f5ddc07,https://www.lottemart.vn/vi-nsg/category/quan-ao-nam-khac-c614,quan-ao-nam-khac,Phụ Kiện Nam,68ddd1c37855a20e2f5ddbf9,2025-10-02T01:14:43.109Z,2025-10-02T01:14:43.109Z
+68ddd25b7855a20e2f5ddc08,https://www.lottemart.vn/vi-nsg/category/vay-dam-quan-c443,vay-dam-quan,"Váy, Đầm, Quần",68ddd1c37855a20e2f5ddbf8,2025-10-02T01:16:11.778Z,2025-10-02T01:16:11.778Z
+68ddd25b7855a20e2f5ddc09,https://www.lottemart.vn/vi-nsg/category/do-ngu-mac-nha-c445,do-ngu-mac-nha,"Đồ Ngủ, Mặc Nhà",68ddd1c37855a20e2f5ddbf8,2025-10-02T01:16:11.778Z,2025-10-02T01:16:11.778Z
+68ddd25b7855a20e2f5ddc0a,https://www.lottemart.vn/vi-nsg/category/do-lot-c446,do-lot,Đồ Lót,68ddd1c37855a20e2f5ddbf8,2025-10-02T01:16:11.778Z,2025-10-02T01:16:11.778Z
+68ddd25b7855a20e2f5ddc0b,https://www.lottemart.vn/vi-nsg/category/giay-dep-c447,giay-dep,"Giày, Dép",68ddd1c37855a20e2f5ddbf8,2025-10-02T01:16:11.778Z,2025-10-02T01:16:11.778Z
+68ddd25b7855a20e2f5ddc0c,https://www.lottemart.vn/vi-nsg/category/hats-c449,hats,"Mũ, Nón",68ddd1c37855a20e2f5ddbf8,2025-10-02T01:16:11.778Z,2025-10-02T01:16:11.778Z
+68ddd25b7855a20e2f5ddc0d,https://www.lottemart.vn/vi-nsg/category/vo-c450,vo,Vớ,68ddd1c37855a20e2f5ddbf8,2025-10-02T01:16:11.778Z,2025-10-02T01:16:11.778Z
+68ddd25b7855a20e2f5ddc0e,https://www.lottemart.vn/vi-nsg/category/quan-ao-nu-khac-c612,quan-ao-nu-khac,Phụ Kiện Nữ,68ddd1c37855a20e2f5ddbf8,2025-10-02T01:16:11.778Z,2025-10-02T01:16:11.778Z
+68ddd2a57855a20e2f5ddc0f,https://www.lottemart.vn/vi-nsg/category/phu-kien-ngay-mua-c468,phu-kien-ngay-mua,Phụ Kiện Ngày Mưa,68dd56228d5c1dd8f9cf5c5f,2025-10-02T01:17:25.814Z,2025-10-02T01:17:25.814Z
+68ddd2a57855a20e2f5ddc10,https://www.lottemart.vn/vi-nsg/category/dung-cu-thiet-bi-tap-c470,dung-cu-thiet-bi-tap,"Dụng Cụ, Thiết Bị Tập",68dd56228d5c1dd8f9cf5c5f,2025-10-02T01:17:25.814Z,2025-10-02T01:17:25.814Z
