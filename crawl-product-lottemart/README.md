@@ -63,5 +63,4 @@ The project is structured as a Jupyter Notebook for easy visualization and step-
 │       └── ...
 ├── src/
 │   └── crawl_data_lotte.ipynb
-├── requirements.txt
 └── README.md
