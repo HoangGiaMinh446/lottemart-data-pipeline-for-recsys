@@ -8,23 +8,40 @@
 
 ## Workflow Pipeline
 Quy trình được thiết kế tuần tự để đảm bảo tính toàn vẹn dữ liệu:
-1. Data Ingestion (Đầu vào): Đọc dữ liệu danh mục sản phẩm và hóa đơn giao dịch thô từ thư mục Data/.
-2. ETL & Mining (DataProcessing.ipynb):
-   *Preprocessing: Ghép bảng (Merge), xử lý dữ liệu thiếu (Missing values), chuẩn hóa tên sản phẩm.
+**1. Data Ingestion (Đầu vào):** Đọc dữ liệu danh mục sản phẩm và hóa đơn giao dịch thô từ thư mục Data/.
+**2. ETL & Mining (DataProcessing.ipynb):**
+* Preprocessing: Ghép bảng (Merge), xử lý dữ liệu thiếu (Missing values), chuẩn hóa tên sản phẩm.
+* Transformation: Chuyển đổi dữ liệu hóa đơn sang dạng Ma trận giao dịch (Transaction Matrix).
+* Mining Engine: Sử dụng thư viện mlxtend để chạy thuật toán tìm luật kết hợp, tính toán các chỉ số Support, Confidence, Lift.
+* Export: Xuất các file dữ liệu sạch và file luật (.csv) vào thư mục DataAfterPreprocessing/.
+**3. Analytics (Statistics.ipynb):**
+* Đọc dữ liệu đầu ra từ bước trên.
+* Thực hiện thống kê mô tả (Descriptive Statistics) về hành vi mua sắm.
+* Trực quan hóa phân phối đơn hàng và độ phủ sản phẩm.
 
-Transformation: Chuyển đổi dữ liệu hóa đơn sang dạng Ma trận giao dịch (Transaction Matrix).
+## Usage Guide
+Để tái tạo kết quả, vui lòng chạy các notebook theo đúng thứ tự sau:
+* **Bước 1: Xử lý dữ liệu & Đào luật (Mining)**
+* Chạy notebook này trước để tạo dữ liệu sạch.
+* File: src/DataProcessing.ipynb
+* Chức năng:
+* ** Clean và Merge dữ liệu sản phẩm.
+* ** Tạo file item_rules.csv (Gợi ý sản phẩm cụ thể).
+* ** Tạo file category_rules.csv (Gợi ý chéo danh mục, ví dụ: Mua Tã -> Mua Sữa).
+* Output: Toàn bộ file trong folder DataAfterPreprocessing/.
 
-Mining Engine: Sử dụng thư viện mlxtend để chạy thuật toán tìm luật kết hợp, tính toán các chỉ số Support, Confidence, Lift.
+Bước 2: Phân tích thống kê (EDA)
+Chạy notebook này sau khi đã có dữ liệu sạch.
 
-Export: Xuất các file dữ liệu sạch và file luật (.csv) vào thư mục DataAfterPreprocessing/.
+File: src/Statistics.ipynb
 
-Analytics (Statistics.ipynb):
+Chức năng:
 
-Đọc dữ liệu đầu ra từ bước trên.
+Phân tích giỏ hàng (Basket Analysis): Kích thước giỏ hàng trung bình, min, max.
 
-Thực hiện thống kê mô tả (Descriptive Statistics) về hành vi mua sắm.
+Phân phối sản phẩm: Xác định sản phẩm bán chạy (Best-sellers) và sản phẩm ít người mua (Long-tail).
 
-Trực quan hóa phân phối đơn hàng và độ phủ sản phẩm.
+Đánh giá luật: Thống kê số lượng và chất lượng các luật tìm được.
 
 ## Project Structure
 
