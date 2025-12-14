@@ -1,4 +1,6 @@
-## Constructed
+## Project Structure
+
+```text
 preprocessing-and-statistics/
 ├── Data/
 │   ├── .gitkeep
@@ -15,7 +17,7 @@ preprocessing-and-statistics/
 │   ├── products_final.csv
 │   └── transactions_long.csv
 │
-├── DataProcessing.ipynb
-├── Statistics.ipynb
-├── README.md
-└── .gitkeep
+├── src/
+│   ├── DataProcessing.ipynb
+│   └── Statistics.ipynb
+└── README.md
