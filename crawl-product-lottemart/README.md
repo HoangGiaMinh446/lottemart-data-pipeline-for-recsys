@@ -13,7 +13,7 @@
     * *Root Categories* (Danh mục cha) → *Sub Categories* (Danh mục con) → *Leaf Categories*.
     * Tự động xây dựng bảng **Closure Table** (Ancestors/Descendants) để truy vấn phân cấp dễ dàng.
 * **Deep Product Extraction:** Trích xuất chi tiết sản phẩm sử dụng **CSS Selectors** và **Extraction Strategy**:
-    * Thông tin cơ bản: Tên, Giá, Hình ảnh, Barcode.
+    * Thông tin cơ bản: Tên, Giá, Barcode.
     * Thông tin nâng cao: Thương hiệu (Brand), Xuất xứ (Country of Origin), Mô tả chi tiết.
     * Thông số kỹ thuật (Specifications) được tách và chuẩn hóa riêng.
 * **Robustness & Fault Tolerance:**
@@ -56,7 +56,7 @@ The project is structured as a Jupyter Notebook for easy visualization and step-
 │   │   ├── products_data.csv         # Dữ liệu sản phẩm chính
 │   │   ├── products_data.jsonl       # Dữ liệu sản phẩm (JSON Lines)
 │   │   ├── brands_data.json          # Danh mục thương hiệu tách riêng
-│   │   └── countries_of_origin.json  # Danh mục quốc gia tách riêng
+│   │   └── countries_of_origin.json  # Danh mục quốc gia xuất sứ tách riêng
 │   └── links/                        # Chứa các file temp lưu link crawl được
 │       ├── root_parent_cat_links.json
 │       ├── crawl_progress.json       # File lưu checkpoint
