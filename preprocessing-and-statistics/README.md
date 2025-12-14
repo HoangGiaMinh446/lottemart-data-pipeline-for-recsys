@@ -1,2 +1,21 @@
-# lottemart-data-pipeline-for-recsys
-Thực hiện crawling dữ liệu sản phẩm từ lotte mart website và xử lý dữ liệu thành dataset chứa schema đầy đủ đưa vào Recsys
+## Constructed
+preprocessing-and-statistics/
+├── Data/
+│   ├── .gitkeep
+│   ├── all_barcodes.xlsx
+│   ├── brands_data.xlsx
+│   ├── categories_data.xlsx
+│   ├── countries_of_origin.xlsx
+│   └── products_data.xlsx
+│
+├── DataAfterPreprocessing/
+│   ├── .gitkeep
+│   ├── category_rules.csv
+│   ├── item_rules.csv
+│   ├── products_final.csv
+│   └── transactions_long.csv
+│
+├── DataProcessing.ipynb
+├── Statistics.ipynb
+├── README.md
+└── .gitkeep
