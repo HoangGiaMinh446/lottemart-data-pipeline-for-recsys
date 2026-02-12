@@ -21,8 +21,8 @@ Quy trình được thiết kế tuần tự để đảm bảo tính toàn vẹ
 
 3.  **Analytics (`Statistics.ipynb`):**
     * Đọc dữ liệu đầu ra từ bước trên.
-    * Thực hiện **Thống kê mô tả** (Descriptive Statistics) về hành vi mua sắm.
-    * Trực quan hóa phân phối đơn hàng và độ phủ sản phẩm bằng biểu đồ.
+    * Thực hiện **Thống kê mô tả** về hành vi mua sắm.
+    * EDA rút ra các insights từ phân phối đơn hàng, độ phủ sản phẩm, thống kê nhóm sản phẩm Driver (Kéo khách) và Follower (Bổ trợ mua kèm) bằng biểu đồ.
 
 ---
 
@@ -35,9 +35,8 @@ Quy trình được thiết kế tuần tự để đảm bảo tính toàn vẹ
 
 * **File:** `src/DataProcessing.ipynb`
 * **Chức năng chính:**
-    * Clean và Merge dữ liệu sản phẩm.
-    * Tạo file `item_rules.csv` (Gợi ý sản phẩm cụ thể).
-    * Tạo file `category_rules.csv` (Gợi ý chéo danh mục, ví dụ: *Mua Tã -> Mua Sữa*).
+    * Clean và Merge dữ liệu sản phẩm tạo ra file **products_enriched** giàu thông tin về sản phẩm.
+    * Tạo ra file **transactions_long** mục đích phục vụ cho việc tính toán luật cho các sản phẩm/ngành hàng.
 * **Output:** Toàn bộ file kết quả sẽ được lưu trong folder `DataAfterPreprocessing/`.
 
 ### Bước 2: Phân tích thống kê (EDA)
@@ -48,6 +47,7 @@ Quy trình được thiết kế tuần tự để đảm bảo tính toàn vẹ
     * **Phân tích giỏ hàng (Basket Analysis):** Thống kê kích thước giỏ hàng trung bình, min, max.
     * **Phân phối sản phẩm:** Xác định sản phẩm bán chạy (Best-sellers) và sản phẩm ít người mua (Long-tail).
     * **Đánh giá luật:** Thống kê số lượng và chất lượng các luật kết hợp tìm được.
+    * **Tạo insight đánh giá bộ dữ liệu** Thống kê nhóm sản phẩm Driver (Kéo khách) và Follower (Bổ trợ mua kèm) bằng biểu đồ.
  
 ## Tech Stack
 
@@ -86,9 +86,8 @@ preprocessing-and-statistics/
 │
 ├── DataAfterPreprocessing/           # Output: Cleaned Data for Modeling
 │   ├── .gitkeep
-│   ├── category_rules.csv            # Generated Cross-category rules
-│   ├── item_rules.csv                # Generated Item-Item rules
-│   ├── products_final.csv            # Final Master Product Data
+│   ├── products_enriched.csv         # Contains product information
+│   ├── unknown_barcodes.csv          # Products in the transaction do not match any product data from product_id (barcodes).
 │   └── transactions_long.csv         # User-Item Transaction History
 │
 ├── src/                              # Source Code
